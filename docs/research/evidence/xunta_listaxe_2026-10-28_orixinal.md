@@ -1,0 +1,609 @@
+```
+{
+  "dataPeticion": "2026-10-28 20:07:29",
+  "elementosPorPaxina": 20,
+  "totalResultados": 12,
+  "listaAxenda": [
+    {
+      "id": 157064,
+      "data": {
+        "dataInicio": "2026-10-29 16:30:00",
+        "dataFin": "2026-10-29 16:30:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Redescubrindo Ourense : A Esmorga - xoves 29 outubro",
+      "entrada": null,
+      "tipoEvento": {
+        "tid": 69,
+        "nome": "Visita guiada/Roteiro",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoroteiro.svg",
+        "tid_sup": 69,
+        "ttid": 47
+      },
+      "ciclo": {
+        "tid": 0,
+        "nome": "",
+        "imaxe": "",
+        "ttid": 0
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/redescubrindo_ourense_1.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/redescubrindo_ourense_1.jpg",
+        "nomeArquivo": "redescubrindo_ourense_1.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128578/69/157064",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157064"
+    },
+    {
+      "id": 157066,
+      "data": {
+        "dataInicio": "2026-10-30 11:30:00",
+        "dataFin": "2026-10-30 11:30:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Redescubrindo Ourense. A memoria en femenino da cidade. ",
+      "entrada": "Roteiro guiado",
+      "tipoEvento": {
+        "tid": 69,
+        "nome": "Visita guiada/Roteiro",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoroteiro.svg",
+        "tid_sup": 69,
+        "ttid": 47
+      },
+      "ciclo": {
+        "tid": 0,
+        "nome": "",
+        "imaxe": "",
+        "ttid": 0
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/redescubrindo_ourense2.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/redescubrindo_ourense2.jpg",
+        "nomeArquivo": "redescubrindo_ourense2.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128580/69/157066",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157066"
+    },
+    {
+      "id": 156460,
+      "data": {
+        "dataInicio": "2026-10-30 20:00:00",
+        "dataFin": "2026-10-30 20:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Teatro Principal",
+        "espazoId": null,
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.86389619112,
+          "latitude": 42.335549382851
+        }
+      },
+      "titulo": "A serie clopen",
+      "entrada": "Unha produción do Centro Dramático Galego e Pistacatro Produtora de Soños ",
+      "tipoEvento": {
+        "tid": 14,
+        "nome": "Teatro",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/teatro.svg",
+        "tid_sup": 13,
+        "ttid": 102
+      },
+      "ciclo": {
+        "tid": 146,
+        "nome": "Rede galega de teatros e auditorios",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/teatros.jpg",
+        "ttid": 122
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/_dsc8206_lowres_0.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/_dsc8206_lowres_0.jpg",
+        "nomeArquivo": "_dsc8206_lowres_0.jpg",
+        "textoAlternativo": "A serie clopen",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/127892/13/156460",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/156460"
+    },
+    {
+      "id": 157005,
+      "data": {
+        "dataInicio": "2026-10-31 12:00:00",
+        "dataFin": "2026-10-31 12:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Entre as cubertas dos libros",
+      "entrada": "Sábados okupados na biblioteca",
+      "tipoEvento": {
+        "tid": 21,
+        "nome": "Obradoiro",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoobradoiros.svg",
+        "tid_sup": 21,
+        "ttid": 45
+      },
+      "ciclo": {
+        "tid": 693,
+        "nome": "Día da Biblioteca",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/libros_0.jpg",
+        "ttid": 200
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/sabados_okupados_na_biblio1_1.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/sabados_okupados_na_biblio1_1.jpg",
+        "nomeArquivo": "sabados_okupados_na_biblio1_1.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128509/21/157005",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157005"
+    },
+    {
+      "id": 157020,
+      "data": {
+        "dataInicio": "2026-10-05 12:00:00",
+        "dataFin": "2026-10-31 14:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Máis libros = Máis libres",
+      "entrada": "Mostra bibliográfica na Sala Infantil",
+      "tipoEvento": {
+        "tid": 70,
+        "nome": "Outras actividades",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconooutrasactividades.svg",
+        "tid_sup": 70,
+        "ttid": 48
+      },
+      "ciclo": {
+        "tid": 693,
+        "nome": "Día da Biblioteca",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/libros_0.jpg",
+        "ttid": 200
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/libros_0.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public",
+        "nomeArquivo": "libros_0.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128530/70/157020",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157020"
+    },
+    {
+      "id": 157007,
+      "data": {
+        "dataInicio": "2026-10-05 11:00:00",
+        "dataFin": "2026-10-31 14:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Mes dos libros prohibidos: que é a censura?",
+      "entrada": "Actividade da Banned Books Week",
+      "tipoEvento": {
+        "tid": 70,
+        "nome": "Outras actividades",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconooutrasactividades.svg",
+        "tid_sup": 70,
+        "ttid": 48
+      },
+      "ciclo": {
+        "tid": 0,
+        "nome": "",
+        "imaxe": "",
+        "ttid": 0
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/cartel_2026.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/cartel_2026.jpg",
+        "nomeArquivo": "cartel_2026.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128511/70/157007",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157007"
+    },
+    {
+      "id": 157095,
+      "data": {
+        "dataInicio": "2026-10-01 10:00:00",
+        "dataFin": "2026-10-31 20:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Museo Arqueolóxico Provincial de Ourense",
+        "espazoId": "701",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.863636,
+          "latitude": 42.335133
+        }
+      },
+      "titulo": "Peza do mes: Fotografía do arco neomudéxar en homenaxe ao Padre Feijoo",
+      "entrada": "Presentación e publicación virtual mensual para afondar no coñecemento de pezas pertencentes aos fondos do Museo",
+      "tipoEvento": {
+        "tid": 23,
+        "nome": "Presentación",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/presentacion.svg",
+        "tid_sup": 22,
+        "ttid": 107
+      },
+      "ciclo": {
+        "tid": 0,
+        "nome": "",
+        "imaxe": "",
+        "ttid": 0
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/portada_35.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/portada_35.jpg",
+        "nomeArquivo": "portada_35.jpg",
+        "textoAlternativo": "Portada da publicación da Peza do Mes de outubro do Museo Arqueolóxico de Ourense. ",
+        "titulo": "Portada da publicación da Peza do Mes de outubro do Museo Arqueolóxico de Ourense. "
+      },
+      "url": "https://www.cultura.gal/gl/evento/128623/22/157095",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157095"
+    },
+    {
+      "id": 157018,
+      "data": {
+        "dataInicio": "2026-10-08 09:00:00",
+        "dataFin": "2026-10-31 21:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Mostra de teares tradicionais ",
+      "entrada": null,
+      "tipoEvento": {
+        "tid": 2,
+        "nome": "Exposición",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoexposicion.svg",
+        "tid_sup": 2,
+        "ttid": 66
+      },
+      "ciclo": {
+        "tid": 0,
+        "nome": "",
+        "imaxe": "",
+        "ttid": 0
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/2cartel_exposicion_2026.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/2cartel_exposicion_2026.jpg",
+        "nomeArquivo": "2cartel_exposicion_2026.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128528/2/157018",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157018"
+    },
+    {
+      "id": 157319,
+      "data": {
+        "dataInicio": "2026-11-03 18:00:00",
+        "dataFin": "2026-11-03 18:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Contiños na biblio - Contacontos pequenos científicos - martes 3",
+      "entrada": null,
+      "tipoEvento": {
+        "tid": 18,
+        "nome": "Contacontos/Narración oral",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/contacontos.svg",
+        "tid_sup": 13,
+        "ttid": 42
+      },
+      "ciclo": {
+        "tid": 2828,
+        "nome": "Mes da ciencia en galego nas bibliotecas",
+        "imaxe": "",
+        "ttid": 567
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/contacontos_pequenos_cientificos.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/contacontos_pequenos_cientificos.jpg",
+        "nomeArquivo": "contacontos_pequenos_cientificos.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128902/13/157319",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157319"
+    },
+    {
+      "id": 157321,
+      "data": {
+        "dataInicio": "2026-11-04 18:00:00",
+        "dataFin": "2026-11-04 18:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Xogando coas letras - mércores 4",
+      "entrada": "Taller de comprensión lectora",
+      "tipoEvento": {
+        "tid": 21,
+        "nome": "Obradoiro",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoobradoiros.svg",
+        "tid_sup": 21,
+        "ttid": 45
+      },
+      "ciclo": {
+        "tid": 0,
+        "nome": "",
+        "imaxe": "",
+        "ttid": 0
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/apuntate_para_o_mes_de_novembro.png",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/apuntate_para_o_mes_de_novembro.png",
+        "nomeArquivo": "apuntate_para_o_mes_de_novembro.png",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128904/21/157321",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157321"
+    },
+    {
+      "id": 157333,
+      "data": {
+        "dataInicio": "2026-11-05 18:00:00",
+        "dataFin": "2026-11-05 18:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Poden ser sexistas as campañas institucionais contra o sexismo?",
+      "entrada": null,
+      "tipoEvento": {
+        "tid": 70,
+        "nome": "Outras actividades",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconooutrasactividades.svg",
+        "tid_sup": 70,
+        "ttid": 48
+      },
+      "ciclo": {
+        "tid": 2828,
+        "nome": "Mes da ciencia en galego nas bibliotecas",
+        "imaxe": "",
+        "ttid": 567
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/101_0.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/101_0.jpg",
+        "nomeArquivo": "101_0.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128920/70/157333",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157333"
+    },
+    {
+      "id": 157323,
+      "data": {
+        "dataInicio": "2026-11-07 12:00:00",
+        "dataFin": "2026-11-07 12:00:00"
+      },
+      "dataOrixinal": null,
+      "estado": null,
+      "lugarCelebracion": {
+        "nome": "Biblioteca Pública de Ourense",
+        "espazoId": "1023",
+        "concello": {
+          "tid": 403,
+          "nome": "Ourense",
+          "cod_ine": "320548"
+        },
+        "localizacion": {
+          "lonxitude": -7.8593069,
+          "latitude": 42.338061
+        }
+      },
+      "titulo": "Obradoiro de xogos de mesa con Alba Polo",
+      "entrada": "Sábados okupados na biblioteca",
+      "tipoEvento": {
+        "tid": 21,
+        "nome": "Obradoiro",
+        "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoobradoiros.svg",
+        "tid_sup": 21,
+        "ttid": 45
+      },
+      "ciclo": {
+        "tid": 0,
+        "nome": "",
+        "imaxe": "",
+        "ttid": 0
+      },
+      "imaxe": {
+        "ruta": "https://www.cultura.gal/sites/default/files/images/evento/anadir_un_titulo7_0.jpg",
+        "ruta_thumb": "https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/anadir_un_titulo7_0.jpg",
+        "nomeArquivo": "anadir_un_titulo7_0.jpg",
+        "textoAlternativo": "",
+        "titulo": ""
+      },
+      "url": "https://www.cultura.gal/gl/evento/128906/21/157323",
+      "eventoOnline": 0,
+      "urlEventoOnline": null,
+      "destacadoTitulo": null,
+      "idioma": "gl",
+      "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157323"
+    }
+  ]
+}
+```

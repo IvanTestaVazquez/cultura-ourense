@@ -1,0 +1,61 @@
+{
+  "dataPeticion": "2026-10-28 20:30:04",
+  "evento": {
+    "id": 157064,
+    "nid": 128578,
+    "traducionId": 157065,
+    "dataActualizacion": "2026-10-01 10:02:45",
+    "publicar": 1,
+    "destacado": 0,
+    "idioma": "gl",
+    "data": {"dataInicio": "2026-10-29 16:30:00", "dataFin": "2026-10-29 16:30:00"},
+    "dataOrixinal": null,
+    "estado": null,
+    "espazoId": 1023,
+    "lugarCelebracion": {
+      "nome": "Biblioteca Pública de Ourense",
+      "espazoId": "1023",
+      "concello": {"tid": 403, "nome": "Ourense", "cod_ine": "320548"},
+      "localizacion": {"lonxitude": -7.8593069, "latitude": 42.338061}
+    },
+    "eventoOnline": 0,
+    "urlEventoOnline": null,
+    "titulo": "Redescubrindo Ourense : A Esmorga - xoves 29 outubro",
+    "entrada": null,
+    "corpo": "\u003Cp align=\"justify\" class=\"western\"\u003EUn achegamento á vida e obra de Eduardo Blanco Amor a través do percorrido definido polas placas que, repartidas pola cidade, conmemoran A Esmorga, publicada en 1959. \u003C/p\u003E\r\n\r\n\u003Cp align=\"justify\" class=\"western\"\u003ESeguindo os pasos de Cibrán, o Bocas e o Milhomes iremos revisitando os espazos da novela e coñecendo aspectos da vida do seu autor.\u003C/p\u003E\r\n\r\n\u003Cp align=\"justify\" class=\"western\"\u003EInscricións dende o venres anterior ás 9 h no 988 78 83 85 / 86. Punto de inicio: Consellería de Sanidade (Avda. de Zamora). \u003C/p\u003E\r\n\r\n\u003Cp align=\"justify\" class=\"western\"\u003EDuración 1h 45 m\u003C/p\u003E\r\n",
+    "tipoEvento": {"tid": 69, "nome": "Visita guiada/Roteiro", "imaxe": "https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoroteiro.svg", "tid_sup": 69, "ttid": 47},
+    "tipoPublico": [
+      {"tid": 2312, "nome": "Público adulto", "ttid": 407},
+      {"tid": 31, "nome": "Público xuvenil", "ttid": 36}
+    ],
+    "tipoEntrada": [
+      {"tid": 120, "nome": "Inscrición previa", "ttid": 52},
+      {"tid": 71, "nome": "Entrada de balde", "ttid": 24}
+    ],
+    "ciclo": {"tid": 0, "nome": "", "imaxe": "", "ttid": 0},
+    "entidadeRelacionada": {"tid": 55, "nome": "Biblioteca Pública de Ourense Nós", "externa": 0},
+    "url": "https://www.cultura.gal/gl/evento/128578/69/157064",
+    "imaxes": [],
+    "videos": [],
+    "ligazons": [],
+    "docAnexos": [],
+    "celebraciones": [
+      {
+        "id": 157064,
+        "data": {"dataInicio": "2026-10-29 16:30:00", "dataFin": "2026-10-29 16:30:00"},
+        "lugarCelebracion": {
+          "nome": "Biblioteca Pública de Ourense",
+          "espazoId": "1023",
+          "concello": {"tid": 403, "nome": "Ourense", "cod_ine": "320548"},
+          "localizacion": {"lonxitude": -7.8593069, "latitude": 42.338061}
+        },
+        "eventoOnline": 0,
+        "urlEventoOnline": null,
+        "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157064"
+      }
+    ],
+    "interesTur": 0,
+    "destEnt": 1,
+    "detalleEvento": "https://www.cultura.gal/v1/axenda/eventos/157064"
+  }
+}
