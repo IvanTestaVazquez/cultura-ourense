@@ -23,3 +23,7 @@ Non se achegaron nesta sesión as capturas da conversa principal. Quedan pendent
 - Rexistro das peticións HTTP (URL efectiva, cabeceiras, estado e instante de captura) para futuras recollidas. As mostras actuais non o conteñen.
 
 Non se substitúen estas evidencias históricas por respostas actuais sen identificar a nova data de recollida. Os hashes SHA-256 de `SHA256SUMS` permiten detectar cambios nos ficheiros de evidencia conservados, incluído o traspaso textual.
+
+## Actualización da clasificación — 29/10/2026
+
+[EX01_classification_decisions_2026-10-29.md](EX01_classification_decisions_2026-10-29.md) rexistra as decisións comunicadas directamente polo usuario: 12 inclusións da Xunta, criterio ampliado, comparación de 17 eventos únicos observados e pausa do experimento. É un rexistro documental de decisións, non unha nova evidencia HTTP nin unha transcrición de fichas. O traspaso anterior consérvase como estado histórico, aínda que nel a clasificación figurase pendente.

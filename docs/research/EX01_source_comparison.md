@@ -1,6 +1,6 @@
 # Experimento 01 — Comparación de fontes
 
-Estado: provisional · Actualización documental: 29/10/2026.
+Estado: resultado provisional documentado; EX01 en pausa · Actualización documental: 29/10/2026.
 
 ## Obxectivo, alcance e procedencia
 
@@ -8,31 +8,31 @@ Documentar a exploración da cobertura, complementariedade, solapamento e calida
 
 O proxecto continúa en Product Discovery. Estes criterios son operativos para o experimento; non definen o produto, o MVP nin a arquitectura.
 
-Esta entrega incorpora exclusivamente a investigación xa realizada na conversa principal, segundo o [traspaso textual achegado](evidence/EX01_source_comparison_traspaso_2026-10-29.txt). Non se repetiu a inspección das webs nin se verificaron de novo as ligazóns externas. As observacións manuais seguintes son **relatadas no traspaso**, non comprobacións independentes efectuadas nesta sesión.
+Este caderno incorpora a investigación xa realizada na conversa principal, segundo o [traspaso textual achegado](evidence/EX01_source_comparison_traspaso_2026-10-29.txt), e a [actualización de decisións comunicada polo usuario](evidence/EX01_classification_decisions_2026-10-29.md). Non se repetiu a inspección das webs nin se verificaron de novo as ligazóns externas. As observacións manuais seguintes son **relatadas no traspaso**, non comprobacións independentes efectuadas nesta sesión.
 
 Mantéñense as categorías de evidencia do [caderno da Xunta](EX01_xunta_api.md): documentado, verificado na evidencia conservada, comprobación previa relatada e hipótese. O traspaso conserva un relato da investigación; non substitúe as capturas ou respostas orixinais das fontes.
 
 ### Actualización respecto á primeira entrega
 
-O caderno anterior propoñía continuar con Turismo Ourense. A fonte municipal identificada na nova investigación é a **axenda do Concello**, <https://ourense.gal/es/proximoseventos/>. Actualízase esa referencia sen alterar os resultados históricos da Xunta. Os 12 rexistros da API son resultados recuperados, aínda pendentes de clasificación cultural formal.
+O caderno anterior propoñía continuar con Turismo Ourense. A fonte municipal identificada na nova investigación é a **axenda do Concello**, <https://ourense.gal/es/proximoseventos/>. Actualízase esa referencia sen alterar os resultados históricos da Xunta. A clasificación posterior inclúe os 12 rexistros da API como culturais, sen exclusións; a decisión e a súa procedencia están no caderno da Xunta.
 
 ## Criterios metodolóxicos provisionais
 
 | Decisión | Criterio |
 | --- | --- |
-| Incluír | Teatro e artes escénicas; música e concertos; cinema; exposicións; literatura; conferencias culturais; obradoiros culturais; divulgación; festexos populares e celebracións con programación cultural ou festiva. |
+| Incluír | Teatro e artes escénicas; música e concertos; cinema; exposicións; literatura; conferencias culturais; obradoiros culturais; divulgación científica, social e humanística; dinamización cultural infantil e fomento da lectura; festexos populares e celebracións con programación cultural ou festiva. |
 | Excluír | Competicións deportivas; actos exclusivamente administrativos ou institucionais; actividades comerciais sen compoñente cultural diferenciado; mercados ou mercadiños exclusivamente comerciais. |
 | Avaliar individualmente | Xornadas, conferencias, presentacións e actividades de temática social ou institucional cando a súa inclusión non estea clara. |
 
 A unidade de análise é **un evento único**, con independencia do número de fontes que o publiquen. Unha exposición de varios días conta como un evento. Unha programación composta, como o Samaín, conta inicialmente como un evento principal: deben conservarse as actividades integrantes, horarios e lugares cando se dispoña da evidencia, sen sumalas automaticamente ao reconto de eventos únicos.
 
-Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento cultural incluído son unidades diferentes. Non se suman os recontos das fontes para calcular eventos únicos nin se deduce a cobertura global a partir desta mostra.
+Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento cultural incluído son unidades diferentes. Non se suman automaticamente os recontos das fontes: cómpre considerar as coincidencias identificadas. Nesta comparación non se identificaron duplicados entre os inventarios incluídos da Xunta e do Concello, polo que a unión observada suma 17 eventos. Non se deduce a cobertura global a partir desta mostra.
 
 ## Estado da exploración
 
 | Fonte | Base examinada segundo o traspaso | Estado da clasificación |
 | --- | --- | --- |
-| Xunta | 12 rexistros da API; evidencia conservada no caderno específico | Pendente de clasificación formal |
+| Xunta | 12 rexistros da API; evidencia conservada no caderno específico | 12 incluídos; 0 excluídos |
 | Concello | 7 rexistros examinados | 5 incluídos e 2 excluídos, provisionalmente |
 | Marcos Valcárcel | 9 candidatos: 6 actividades e 3 exposicións | Pendente de decisión individual |
 | La Región / Press Club | Tres exposicións coincidentes co centro e unha conferencia en Press Club | Exploración parcial; sen reconto cultural definitivo |
@@ -60,7 +60,7 @@ Resultado provisional: **7 rexistros examinados, 5 incluídos, 2 excluídos**. A
 
 A ficha do Samaín presenta obradoiros, desfile, animación de rúa, concerto infantil, túnel do terror e outras propostas festivas. O traspaso non transcribe os seus horarios, lugares nin a relación completa de actividades: quedan pendentes de incorporación desde a ficha ou a captura orixinal; non se inventan.
 
-Non se observaron coincidencias entre os títulos municipais e os 12 rexistros da Xunta. É unha observación preliminar de títulos, **non unha deduplicación definitiva nin unha demostración de ausencia de solapamento**.
+Na exploración inicial non se observaron coincidencias de títulos. Tras a clasificación e comparación comunicadas polo usuario, **non se identificaron duplicados entre os 12 eventos da Xunta e os 5 incluídos do Concello**. O resultado documentado é de 17 eventos únicos observados. Non se presenta como garantía de ausencia de duplicados non detectados.
 
 ## Centro Cultural Marcos Valcárcel
 
@@ -139,21 +139,37 @@ Non se localizaron axendas equivalentes nas webs revisadas do CCP Xaquín Lorenz
 
 | Achado na mostra | Sustento relatado | Límite |
 | --- | --- | --- |
-| Fragmentación entre fontes | Inventarios parcialmente distintos e ausencia preliminar de coincidencias de títulos Concello/Xunta | Clasificación da Xunta e comparación de identidade pendentes |
+| Fragmentación entre fontes | 12 eventos incluídos da Xunta e 5 do Concello, sen duplicados identificados | Resultado limitado aos inventarios observados; exhaustividade non garantida |
 | Fragmentación interna | Conferencia en Press Club non observada na listaxe xeral consultada | Non é unha revisión exhaustiva de todas as plataformas |
 | Solapamento de publicacións | Tres exposicións compartidas por Marcos Valcárcel e La Región | Falta evidencia individual sistemática |
 | Inconsistencias temporais | Intervalos de El aprendiz de arquero e horas de Juan Lobato | Non se resolveu o dato correcto nin a causa |
 | Calidade xeográfica | Casos do Teatro Principal e do roteiro A Esmorga | Véxase o caderno da Xunta; o roteiro non se clasifica como erro |
 | Heteroxeneidade | Estruturas e detalle diferentes nas fontes revisadas | Non se extrapola a toda a programación da cidade |
 
-Non se calcula aínda un total de eventos culturais únicos, porcentaxes de cobertura nin unha fonte gañadora. As capturas mencionadas na investigación principal non se achegaron a esta sesión; o relato non se presenta como recollida plenamente reproducible.
+O resultado comparativo é de **17 eventos únicos observados**, sen estimar porcentaxes de cobertura nin unha fonte gañadora. As capturas mencionadas na investigación principal non se achegaron a esta sesión; o relato non se presenta como recollida plenamente reproducible.
 
-## Traballo pendente e punto de continuación
+## Resultado da comparación Xunta–Concello
 
-1. **Clasificar os 12 rexistros da Xunta** cos mesmos criterios do inventario municipal; xustificar inclusións, exclusións e dúbidas sen modificar as mostras históricas.
-2. Comparar os dous inventarios por identidade do evento, datas e lugares, ademais dos títulos, antes de concluír cobertura complementaria.
-3. Completar as URL individuais e asociar capturas ou texto orixinal a cada rexistro e discrepancia, con fonte e data de consulta cando se coñezan.
-4. Conservar a programación detallada do Samaín sen duplicar o reconto principal.
-5. Clasificar individualmente os nove candidatos do Marcos Valcárcel; resolver as discrepancias con evidencias e manter os valores publicados por cada fonte.
+| Inventario / medida | Resultado |
+| --- | --- |
+| Xunta: rexistros examinados / incluídos / excluídos | 12 / 12 / 0 |
+| Concello: rexistros examinados / incluídos / excluídos | 7 / 5 / 2 |
+| Duplicados identificados entre os inventarios incluídos | 0 |
+| Eventos únicos observados na unión | **12 + 5 − 0 = 17** |
 
-A continuación inmediata na conversa principal é o punto 1. Esta entrega só documenta o traballo xa relatado.
+A clasificación e o resultado da comparación proceden das decisións comunicadas polo usuario o 29/10/2026; non dunha nova inspección das fontes nesta sesión. A táboa de clasificación individual figura no [caderno da Xunta](EX01_xunta_api.md#clasificación-cultural--29102026). O Samaín mantense como un único evento composto e as exposicións de varios días como un evento cada unha.
+
+**17 non representa a cobertura cultural total de Ourense nin garante a exhaustividade das fontes.** A ausencia de duplicados identificados describe a comparación observada, non unha proba de inexistencia de duplicados non detectados. Non se achegou unha matriz detallada de emparellamento entre fontes nesta actualización. Mantéñense pendentes as URL individuais e as evidencias manuais que limitan a reproducibilidade. Os nove candidatos do Marcos Valcárcel e as publicacións de La Región non se suman a estes 17.
+
+## Pausa do EX01 e traballo futuro
+
+A clasificación dos 12 rexistros da Xunta e a comparación cos 5 eventos incluídos do Concello quedan documentadas. **O EX01 queda en pausa**, sen ampliar a investigación nesta entrega.
+
+Nunha eventual continuación poderase:
+
+- Ampliar a comparación a Marcos Valcárcel e La Región, clasificando os candidatos e evitando contar de novo eventos coincidentes.
+- Completar URL individuais, capturas ou texto orixinal e a trazabilidade do emparellamento entre fontes.
+- Conservar a programación detallada do Samaín sen duplicar o reconto principal.
+- Resolver con evidencia as discrepancias temporais xa rexistradas, mantendo os valores publicados por cada fonte.
+
+Estas son posibilidades futuras, non tarefas iniciadas nin conclusións sobre o produto.

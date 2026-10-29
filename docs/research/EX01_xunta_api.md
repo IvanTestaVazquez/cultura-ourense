@@ -1,6 +1,6 @@
 # Experimento 01 — API da Axenda de Cultura da Xunta
 
-Estado: provisional · Data da investigación: 28/10/2026.
+Estado: clasificación completada; EX01 en pausa · Mostra: 28/10/2026 · Actualización: 29/10/2026.
 
 ## Contexto e obxectivo
 
@@ -47,7 +47,7 @@ Período solicitado: 29/10/2026–11/11/2026. Comprobación: 28/10/2026.
 
 A evidencia achegada contén `dataPeticion: 2026-10-28 20:07:29`, `totalResultados: 12`, `elementosPorPaxina: 20` e 12 elementos en `listaAxenda`, todos asociados ao concello `403`. A URL da petición procede da conversa: o JSON non inclúe un rexistro HTTP que a vincule por si só á resposta.
 
-Os 12 resultados son rexistros recuperados, aínda pendentes de clasificación cultural formal cos [criterios metodolóxicos do experimento](EX01_source_comparison.md#criterios-metodolóxicos-provisionais). Non constitúen un reconto definitivo de eventos culturais incluíbles.
+Os 12 rexistros recuperados clasificáronse como culturais e incluídos cos [criterios metodolóxicos do experimento](EX01_source_comparison.md#criterios-metodolóxicos-provisionais). Resultado: **12 incluídos, 0 excluídos**. É o reconto desta mostra, non unha medida da oferta cultural total.
 
 ### Mostra conservada
 
@@ -69,6 +69,27 @@ Títulos e datas procedentes do JSON; elimínanse unicamente os espazos finais d
 | 157323 | Obradoiro de xogos de mesa con Alba Polo | 2026-11-07 12:00:00 | 2026-11-07 12:00:00 | Biblioteca Pública de Ourense |
 
 Hai actividades que comezan antes do 29/10 e rematan dentro do período consultado. A mostra é compatible cun filtro por solapamento temporal; non permite concluír a regra completa, a inclusividade dos límites nin o tratamento de todos os casos. Non se interpreta `dataFin` igual a `dataInicio` como unha duración real de cero minutos.
+
+## Clasificación cultural — 29/10/2026
+
+A clasificación foi comunicada polo usuario tras a revisión na conversa principal; véxase o [rexistro de decisións](evidence/EX01_classification_decisions_2026-10-29.md). As xustificacións seguintes vinculan cada inclusión cos criterios operativos, sen atribuír novos campos á API nin afirmar unha nova verificación das fichas nesta sesión.
+
+| ID | Evento | Decisión | Encaixe no criterio |
+| --- | --- | --- | --- |
+| 157064 | Redescubrindo Ourense : A Esmorga - xoves 29 outubro | Incluído | Roteiro literario e divulgación humanística |
+| 157066 | Redescubrindo Ourense. A memoria en femenino da cidade. | Incluído | Divulgación histórica e social mediante roteiro |
+| 156460 | A serie clopen | Incluído | Artes escénicas |
+| 157005 | Entre as cubertas dos libros | Incluído | Dinamización cultural infantil e fomento da lectura; inclusión confirmada expresamente |
+| 157020 | Máis libros = Máis libres | Incluído | Fomento da lectura mediante mostra bibliográfica; inclusión confirmada expresamente |
+| 157007 | Mes dos libros prohibidos: que é a censura? | Incluído | Literatura e divulgación sobre a censura |
+| 157095 | Peza do mes: Fotografía do arco neomudéxar en homenaxe ao Padre Feijoo | Incluído | Divulgación do patrimonio histórico |
+| 157018 | Mostra de teares tradicionais | Incluído | Exposición de patrimonio cultural |
+| 157319 | Contiños na biblio - Contacontos pequenos científicos - martes 3 | Incluído | Narración oral e divulgación científica infantil |
+| 157321 | Xogando coas letras - mércores 4 | Incluído | Fomento da lectura e comprensión lectora |
+| 157333 | Poden ser sexistas as campañas institucionais contra o sexismo? | Incluído | Divulgación social mediante conferencia sobre campañas contra o sexismo; inclusión confirmada expresamente |
+| 157323 | Obradoiro de xogos de mesa con Alba Polo | Incluído | Dinamización cultural mediante obradoiro de xogos de mesa; inclusión confirmada expresamente |
+
+Todos os rexistros da mostra quedan incluídos; non hai exclusións nin casos pendentes dentro destes 12. A confirmación dos catro casos sinalados non implica incluír automaticamente calquera actividade de temática social ou calquera xogo: o criterio segue a requirir avaliar cada caso. As categorías da API son datos da fonte, non a decisión cultural do experimento.
 
 ## Endpoint de detalle
 
@@ -117,4 +138,4 @@ A resposta conservada e as comprobacións previas amosan información estruturad
 - Completitude, actualización, cancelacións, aprazamentos e posibles duplicados.
 - Condicións de reutilización dos datos; a dispoñibilidade pública non establece unha licenza.
 
-Actualización do 29/10/2026: a fonte municipal identificada é a [axenda do Concello](https://ourense.gal/es/proximoseventos/), en substitución da referencia anterior a Turismo Ourense. A exploración manual e os seus límites recóllense no [caderno de comparación](EX01_source_comparison.md). O seguinte paso é clasificar formalmente os 12 rexistros da Xunta antes da comparación consistente de inventarios.
+Actualización do 29/10/2026: a fonte municipal identificada é a [axenda do Concello](https://ourense.gal/es/proximoseventos/), en substitución da referencia anterior a Turismo Ourense. A exploración manual e os seus límites recóllense no [caderno de comparación](EX01_source_comparison.md). A clasificación queda completada: 12 incluídos e 0 excluídos. A comparación comunicada co Concello ofrece **17 eventos únicos observados** (12 + 5, sen duplicados identificados). O EX01 queda en pausa; a posible ampliación a Marcos Valcárcel e La Región é traballo futuro. Non se garante exhaustividade nin se estima a cobertura total de Ourense.
