@@ -47,6 +47,8 @@ Período solicitado: 29/10/2026–11/11/2026. Comprobación: 28/10/2026.
 
 A evidencia achegada contén `dataPeticion: 2026-10-28 20:07:29`, `totalResultados: 12`, `elementosPorPaxina: 20` e 12 elementos en `listaAxenda`, todos asociados ao concello `403`. A URL da petición procede da conversa: o JSON non inclúe un rexistro HTTP que a vincule por si só á resposta.
 
+Os 12 resultados son rexistros recuperados, aínda pendentes de clasificación cultural formal cos [criterios metodolóxicos do experimento](EX01_source_comparison.md#criterios-metodolóxicos-provisionais). Non constitúen un reconto definitivo de eventos culturais incluíbles.
+
 ### Mostra conservada
 
 Títulos e datas procedentes do JSON; elimínanse unicamente os espazos finais dos títulos para a presentación.
@@ -109,10 +111,10 @@ Véxase [o inventario de evidencias](evidence/README.md). Consérvase o ficheiro
 
 A resposta conservada e as comprobacións previas amosan información estruturada útil. Non se conclúe que a API sexa suficiente como fonte única. Queda por avaliar:
 
-- Cobertura e solapamento con Turismo Ourense e, posteriormente, outras axendas, mantendo o mesmo período.
+- Cobertura e solapamento coa axenda do Concello de Ourense e outras fontes, mantendo o mesmo período; véxase a [comparación de fontes](EX01_source_comparison.md).
 - Precisión xeográfica e interpretación do espazo asociado fronte ao punto de encontro.
 - Semántica dos intervalos de datas e límites da consulta.
 - Completitude, actualización, cancelacións, aprazamentos e posibles duplicados.
 - Condicións de reutilización dos datos; a dispoñibilidade pública non establece unha licenza.
 
-O seguinte traballo de investigación será contrastar a mostra con Turismo Ourense. Non se executa esa comparación nesta entrega.
+Actualización do 29/10/2026: a fonte municipal identificada é a [axenda do Concello](https://ourense.gal/es/proximoseventos/), en substitución da referencia anterior a Turismo Ourense. A exploración manual e os seus límites recóllense no [caderno de comparación](EX01_source_comparison.md). O seguinte paso é clasificar formalmente os 12 rexistros da Xunta antes da comparación consistente de inventarios.
