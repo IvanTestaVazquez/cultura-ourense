@@ -1,0 +1,245 @@
+# Cultura Ourense — Traspaso de investigación e actualización documental do Experimento 01
+
+Quero continuar o traballo no repositorio `IvanTestaVazquez/cultura-ourense`, retomando o contexto deste fío de Work.
+
+Na conversa principal de ChatGPT realizamos unha nova fase de investigación do **Experimento 01: cobertura e solapamento das fontes de eventos culturais da cidade de Ourense**.
+
+O obxectivo desta sesión de Work é **incorporar os achados á documentación existente**, mantendo a trazabilidade das evidencias e sen adiantar conclusións que aínda non estean suficientemente verificadas.
+
+## 1. Contexto e alcance
+
+Cultura Ourense é un proxecto de portfolio actualmente en fase de Product Discovery. O seu obxectivo é investigar a viabilidade e utilidade dunha axenda agregada de eventos culturais da cidade de Ourense.
+
+Non estamos deseñando aínda o MVP nin tomando decisións arquitectónicas.
+
+O Experimento 01 investiga a cobertura, complementariedade, solapamento e calidade dos datos publicados por diferentes fontes.
+
+**Ámbito xeográfico:** municipio de Ourense, non toda a provincia.
+
+**Período de observación:** do 29 de outubro ao 11 de novembro de 2026, ambos incluídos.
+
+Un evento iniciado antes do período pode incluírse se continúa activo durante a xanela de observación.
+
+## 2. Estado anterior do repositorio
+
+Nunha sesión anterior documentamos unha primeira investigación sobre a API da Axenda Cultural da Xunta de Galicia.
+
+Esa documentación foi integrada en `main` mediante unha pull request.
+
+Antes de realizar cambios:
+
+1. Examina o estado actual do repositorio e a súa documentación.
+2. Identifica onde se documenta o Experimento 01.
+3. Reutiliza a estrutura, convencións e nomenclatura existentes.
+4. Non sobrescribas nin dupliques os achados xa documentados.
+5. Se detectas contradicións entre este traspaso e o repositorio, sinala as diferenzas antes de resolvelas.
+
+## 3. Criterios metodolóxicos acordados
+
+**Incluír:**
+- Teatro e artes escénicas.
+- Música e concertos.
+- Cinema.
+- Exposicións.
+- Literatura.
+- Conferencias culturais.
+- Obradoiros culturais.
+- Actividades de divulgación.
+- Festexos populares e celebracións con programación cultural ou festiva.
+
+**Excluír:**
+- Competicións deportivas.
+- Actos exclusivamente administrativos ou institucionais.
+- Actividades comerciais sen compoñente cultural diferenciado.
+- Mercados e mercadiños exclusivamente comerciais.
+
+**Casos dubidosos:** determinadas xornadas, conferencias, presentacións e actividades de temática social ou institucional. Deben avaliarse individualmente.
+
+**Unidade de análise:** un evento único, independentemente do número de fontes que o publiquen.
+
+As exposicións de varios días contabilízanse como un único evento.
+
+As programacións compostas, como o Samaín, contabilízanse inicialmente como un evento principal, conservando as actividades integrantes e os seus horarios e lugares. Non se deben sumar automaticamente as actividades integrantes ao reconto de eventos únicos.
+
+Estes criterios son operativos e provisionais para o experimento, non decisións definitivas sobre o produto.
+
+## 4. Xunta de Galicia
+
+API documentada anteriormente.
+
+Consulta realizada para o municipio de Ourense, identificado co `tid=403`, no período establecido.
+
+Resultado: **12 eventos recuperados**, aínda pendentes de aplicarlles formalmente os criterios culturais acordados.
+
+Na exploración anterior tamén se detectaron problemas relacionados coa xeolocalización e coa interpretación dos lugares de celebración.
+
+Non presentar os 12 eventos como reconto definitivo de eventos culturais incluíbles ata completar a clasificación.
+
+## 5. Concello de Ourense
+
+Fonte: https://ourense.gal/es/proximoseventos/
+
+Realizouse unha revisión manual da axenda municipal para o período completo.
+
+Identificáronse sete rexistros:
+
+| Evento | Data | Decisión |
+|---|---|---|
+| Centenario dos Grandes Voos da Aviación Española (1926–1935) | 16–31/10 | Incluído |
+| Moi Animal — Xosé A. Touriñán | 30/10 | Incluído |
+| Samaín 2026 en Ourense | 31/10 | Incluído como evento composto |
+| Feira de Antigüidades | 01/11 | Excluído por carácter principalmente comercial |
+| A administración preto de ti | 06/11 | Excluído por carácter administrativo |
+| Shado — Cleptómago | 06/11 | Incluído |
+| De Simba a Kiara — Tributo ao Rei León | 08/11 | Incluído |
+
+**Resultado provisional: 7 rexistros examinados, 5 incluídos e 2 excluídos.**
+
+No Samaín, a ficha municipal presenta unha programación con actividades diferenciadas: obradoiros, desfile, animación de rúa, concerto infantil, túnel do terror e outras propostas festivas.
+
+Decidiuse contabilizar inicialmente a celebración como un evento composto.
+
+Non se observaron coincidencias entre os títulos destes eventos municipais e os 12 recuperados da Xunta. Esta observación non equivale aínda a unha comparación definitiva de cobertura.
+
+As fichas individuais e as súas URL non quedaron inventariadas sistematicamente. Non inventar ligazóns nin afirmar que a recollida é plenamente reproducible ata completar esa información.
+
+## 6. Centro Cultural Marcos Valcárcel
+
+Fontes:
+
+https://www.centroculturaldeourense.com/actividades
+
+https://www.centroculturaldeourense.com/exposicions-actuais
+
+Identificáronse nove candidatos dentro do período:
+
+**Actividades puntuais:**
+- 29/10 — Juan Lobato: «Ética e política».
+- 04/11 — Punto y seguido.
+- 05/11 — Carlos Ortega Bernabé: conferencia sobre as unidades de emerxencias internacionais da Cruz Vermella.
+- 06/11 — Inauguración UNED Ourense.
+- 07/11 — I Xornada Internacional da Lonxevidade.
+- 07/11 — Ciencia Calidade 2026.
+
+**Exposicións:**
+- Pateiro — El aprendiz de arquero: 07/10–08/11, segundo a web do centro.
+- 31 OFF. Terra do Anel, unha viaxe entre reinos: 17/09–01/11.
+- Esteban Deláiglesia — Ecosistema dunha rodaxe: 18/09–01/11.
+
+Estes nove rexistros son candidatos, non nove eventos culturais definitivamente incluídos.
+
+A web proporciona fichas individuais, pero os campos dispoñibles varían segundo o tipo de actividade.
+
+A ficha de *El aprendiz de arquero* inclúe lugar, horarios, prezo, organizador e patrocinador.
+
+URL verificada:
+
+https://www.centroculturaldeourense.com/exposicions/el-aprendiz-de-arquero
+
+## 7. La Región e Press Club
+
+Fontes:
+
+https://www.laregion.es/eventos/
+
+https://www.laregion.es/foro-la-region/
+
+https://pressclub.laregion.es/eventos/foros/
+
+Na axenda xeral de La Región observáronse tres exposicións tamén publicadas polo Marcos Valcárcel:
+
+- Terra do Anel.
+- Ecosistema dunha rodaxe.
+- El aprendiz de arquero.
+
+A axenda xeral abrangue eventos de distintos municipios da provincia, polo que require filtrado xeográfico.
+
+**Discrepancia 1: El aprendiz de arquero**
+
+- Marcos Valcárcel: 07/10–08/11.
+- La Región: 08/10–01/11.
+
+A discrepancia aparece tamén na ficha individual de La Región, non só na listaxe. A ficha consultada indicaba publicación o 07/10/2026 ás 10:45.
+
+Non se determinou cal das datas é correcta.
+
+**Discrepancia 2: conferencia de Juan Lobato**
+
+- Marcos Valcárcel: 29/10 ás 20:15.
+- Press Club La Región: 29/10 ás 19:45.
+
+Ambas as plataformas identifican o Centro Cultural Marcos Valcárcel como lugar.
+
+Non sabemos se a diferenza corresponde a un erro, a un cambio de programación ou a distintos momentos do evento.
+
+A conferencia non aparecía na listaxe de 27 resultados da axenda xeral de La Región consultada, pero si na plataforma Press Club.
+
+A ficha de Press Club era accesible publicamente e indicaba que a inscrición require unha conta de usuario. O apartado de destinatarios indicaba «Suscriptores y registrados».
+
+Isto permite distinguir entre acceso público á información e requisitos de inscrición.
+
+**Conclusión provisional:** existe fragmentación da información entre plataformas, duplicación de publicacións e posibles inconsistencias nos datos dun mesmo evento.
+
+## 8. Deputación de Ourense
+
+Fonte:
+
+https://www.depourense.gal/gl/actualidade/axenda
+
+A revisión manual mostrou unha axenda principalmente institucional, con tarxetas que presentan título, descrición, data, hora e lugar.
+
+Non se observou un filtro de datas. Os rexistros aparecían ordenados de maneira cronolóxica descendente.
+
+A sección Cultura da Deputación funciona principalmente como directorio de recursos e iniciativas.
+
+Identificáronse outros equipamentos ou plataformas relevantes:
+- Teatro Principal.
+- Centro Cultural Marcos Valcárcel.
+- CCP Xaquín Lorenzo: https://ccpxaquinlorenzo.es/
+- Paco Paz.
+- OUFF.
+
+Non se localizaron axendas culturais equivalentes nas webs revisadas do CCP Xaquín Lorenzo e Paco Paz. Isto non demostra que non existan.
+
+Non se identificou unha axenda cultural centralizada da Deputación nesta exploración.
+
+## 9. Achados transversais
+
+Documentar diferenciando observacións e hipóteses:
+
+1. **Fragmentación entre fontes:** diferentes entidades publican programacións parcialmente distintas.
+2. **Fragmentación interna:** unha mesma organización pode publicar eventos en varias plataformas.
+3. **Solapamento:** un evento pode aparecer en distintas fontes e debe contabilizarse unha soa vez.
+4. **Inconsistencias:** detectáronse datas e horas diferentes para eventos coincidentes.
+5. **Calidade xeográfica:** a investigación da Xunta identificou problemas de localización e de representación de lugares de encontro.
+6. **Heteroxeneidade:** as fontes presentan estruturas, categorías e niveis de detalle diferentes.
+
+Non extrapolar estes casos a toda a programación cultural da cidade.
+
+## 10. Traballo solicitado nesta sesión de Work
+
+Quero que:
+
+1. Revises a documentación existente e determines onde encaixan estes achados.
+2. Propoñas unha actualización documental pequena, coherente coa estrutura do repositorio.
+3. Crees unha rama de documentación, por exemplo `docs/experiment-01-source-comparison`, se non existe outra máis adecuada.
+4. Incorpores os criterios metodolóxicos, o inventario municipal, a exploración das fontes adicionais e as incidencias detectadas.
+5. Conserves as referencias ás fontes e marques as evidencias que proceden dunha inspección manual mediante capturas ou texto copiado.
+6. Diferencies expresamente feitos observados, hipóteses, limitacións e traballo pendente.
+7. Evites crear documentación redundante ou introducir decisións de arquitectura, deseño do MVP ou implementación.
+8. Revises os cambios antes de preparar o commit.
+9. Presentes un resumo dos ficheiros modificados e das decisións documentais tomadas.
+
+**Non fagas o merge automaticamente.** Quero revisar os cambios e a pull request antes de integralos en `main`.
+
+Se algunha información é insuficiente ou contraditoria, sinala a limitación e consulta comigo antes de inventar datos.
+
+## 11. Punto de continuación da investigación
+
+Unha vez documentada esta fase, volveremos á conversa principal para:
+
+**Clasificar os 12 eventos recuperados da API da Xunta aplicando os mesmos criterios culturais utilizados no inventario municipal.**
+
+Despois poderemos comparar os dous inventarios de maneira consistente e avaliar a cobertura complementaria das fontes.
+
+O obxectivo desta sesión de Work é exclusivamente deixar documentado o traballo xa realizado, cun estado claro e reproducible para continuar o Experimento 01.
