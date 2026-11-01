@@ -37,7 +37,7 @@ Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento
 | Xunta | 12 rexistros da API; evidencia conservada no caderno específico | 12 incluídos; 0 excluídos |
 | Concello | 7 rexistros examinados | 5 incluídos e 2 excluídos, provisionalmente |
 | Marcos Valcárcel | 9 candidatos: 6 actividades e 3 exposicións | 8 incluídos; 1 excluído |
-| La Región / Press Club | Tres exposicións coincidentes co centro e unha conferencia en Press Club | Exploración parcial; sen reconto cultural definitivo |
+| La Región / Press Club | Tres exposicións e dúas conferencias coincidentes co centro | Exploración parcial; sen reconto cultural definitivo |
 | Deputación | Axenda e recursos revisados manualmente | Sen inventario cultural definitivo |
 
 Estes datos describen a exploración realizada; non son medidas comparables de cobertura final.
@@ -105,12 +105,13 @@ A axenda xeral abrangue distintos municipios da provincia e require filtrado xeo
 
 | Fonte | Intervalo publicado segundo a inspección previa |
 | --- | --- |
-| Marcos Valcárcel | 07/10/2026–08/11/2026 |
+| Listaxe do Marcos Valcárcel | 07/10/2026–08/11/2026 |
+| Ficha individual do Marcos Valcárcel | 08/10/2026–01/11/2026 |
 | La Región | 08/10/2026–01/11/2026 |
 
-**Observación relatada:** a diferenza aparece na listaxe e na ficha individual de La Región, que indicaba publicación o 07/10/2026 ás 10:45. A data de publicación non se interpreta como inicio da exposición.
+**Observación relatada:** segundo a precisión recibida o 01/11/2026, tamén existe discrepancia interna entre a listaxe e a ficha individual do Marcos Valcárcel. A ficha do centro coincide co intervalo de La Región, onde a diferenza respecto á listaxe do centro se observara tanto na listaxe como na ficha. A ficha de La Región indicaba publicación o 07/10/2026 ás 10:45; esta data de publicación non se interpreta como inicio da exposición. A revisión anterior resumía o dato do centro sen separar estas superficies; a nova táboa conserva a procedencia de cada versión.
 
-**Estado:** discrepancia aberta. Non se determinou cal das datas é correcta. A exposición solápase coa xanela de estudo baixo ambos os intervalos, pero iso non resolve a inconsistencia. Falta inventariar a URL individual de La Región e conservar as evidencias comparables.
+**Estado:** discrepancia aberta. Non se determinou cal das datas é correcta. A exposición solápase coa xanela de estudo baixo ambos os intervalos, pero iso non resolve a inconsistencia. Falta inventariar a URL individual de La Región e conservar evidencias comparables da listaxe e das fichas. A URL da ficha do centro está indicada no apartado anterior. A coincidencia de dúas publicacións non determina cal é o intervalo correcto.
 
 ### EX01-COMP-002 — Hora da conferencia de Juan Lobato
 
@@ -119,7 +120,7 @@ A axenda xeral abrangue distintos municipios da provincia e require filtrado xeo
 | Marcos Valcárcel | 29/10/2026, 20:15 | Centro Cultural Marcos Valcárcel |
 | Press Club La Región | 29/10/2026, 19:45 | Centro Cultural Marcos Valcárcel |
 
-**Observación relatada:** horarios diferentes para a conferencia identificada como coincidente.
+**Observación relatada:** é o mesmo evento, con horarios publicados que difiren en **30 minutos**. As dúas publicacións non se contan como dous eventos.
 
 **Hipóteses non resoltas:** erro, cambio de programación ou distintos momentos do evento. Non se escolle ningunha explicación nin unha hora canónica. Faltan as URL individuais e as capturas ou transcricións completas.
 
@@ -130,6 +131,19 @@ Segundo o traspaso, a conferencia non se observou na listaxe de 27 resultados da
 A ficha de Press Club era pública; a inscrición requiría conta e o apartado de destinatarios indicaba «Suscriptores y registrados». Distínguese **acceso á información** de **requisitos de inscrición**. Estes datos non permiten afirmar que a actividade sexa aberta a calquera persoa, gratuíta ou exclusiva para subscritores de pagamento.
 
 A exploración ofrece indicios de fragmentación entre plataformas dunha mesma organización e de duplicación de publicacións. Non se avaliou de forma exhaustiva a súa cobertura.
+
+### EX01-COMP-004 — Coincidencia horaria da conferencia sobre as ERUs
+
+| Fonte | Data e hora relatadas | Evento |
+| --- | --- | --- |
+| Marcos Valcárcel | 05/11/2026, 19:45 | Carlos Ortega Bernabé: ERUs da Cruz Vermella |
+| Press Club | 05/11/2026, 19:45 | A mesma conferencia |
+
+**Dato consistente segundo a revisión comunicada polo usuario o 01/11/2026:** as dúas publicacións coinciden na data e na hora. Rexístrase a coincidencia para que a análise de calidade recolla tamén datos consistentes. Non equivale a unha comprobación independente de todos os campos nin resolve as outras discrepancias. Non se achegaron nesta sesión as fichas orixinais nin as súas URL individuais. A publicación de Press Club non engade un evento único ao inventario.
+
+### Alcance parcial da revisión de La Región / Press Club
+
+As tres exposicións compartidas son **tres eventos, non seis**. Tamén se identifican publicacións coincidentes para Ética e política e para a conferencia das ERUs. Estes cinco casos de publicación compartida pertencen aos oito incluídos do centro; non se suman eventos de La Región / Press Club ao reconto agregado. A identificación destes casos non é unha revisión exhaustiva das plataformas nin unha comparación completa de cobertura desa fonte.
 
 ## Deputación de Ourense
 
@@ -148,7 +162,8 @@ Non se localizaron axendas equivalentes nas webs revisadas do CCP Xaquín Lorenz
 | Fragmentación entre fontes | 12 eventos incluídos da Xunta e 5 do Concello, sen duplicados identificados | Resultado limitado aos inventarios observados; exhaustividade non garantida |
 | Fragmentación interna | Conferencia en Press Club non observada na listaxe xeral consultada | Non é unha revisión exhaustiva de todas as plataformas |
 | Solapamento de publicacións | Tres exposicións compartidas por Marcos Valcárcel e La Región | Falta evidencia individual sistemática |
-| Inconsistencias temporais | Intervalos de El aprendiz de arquero e horas de Juan Lobato | Non se resolveu o dato correcto nin a causa |
+| Inconsistencias temporais | Intervalos de El aprendiz de arquero, incluída a diferenza interna listaxe/ficha do centro, e horas de Juan Lobato | Non se resolveu o dato correcto nin a causa |
+| Consistencia temporal | ERUs: 05/11 ás 19:45 tanto no centro como en Press Club | Coincidencia relatada destes campos, non validación de toda a fonte |
 | Calidade xeográfica | Casos do Teatro Principal e do roteiro A Esmorga | Véxase o caderno da Xunta; o roteiro non se clasifica como erro |
 | Heteroxeneidade | Estruturas e detalle diferentes nas fontes revisadas | Non se extrapola a toda a programación da cidade |
 
@@ -179,10 +194,14 @@ A clasificación e o resultado da comparación proceden das decisións comunicad
 
 O reconto actualízase despois do [contraste de título, temática, data, lugar dispoñible e eventos compostos](EX01_marcos_valcarcel_overlap.md), non como aceptación automática da hipótese inicial. Os lugares municipais non quedaron inventariados por rexistro e a programación completa do Samaín non está conservada: a validación é documental e revisable. **25 non representa a cobertura cultural total de Ourense nin garante a exhaustividade das fontes.**
 
-As tres exposicións compartidas con La Región e a publicación de Juan Lobato en Press Club corresponden a eventos xa incluídos do centro, sen sumar novos eventos. Mantéñense abertas EX01-COMP-001 e EX01-COMP-002; a presente actualización non resolve datas nin horas discrepantes.
+As tres exposicións compartidas con La Región e as publicacións de Juan Lobato e das ERUs en Press Club corresponden a eventos xa incluídos do centro, sen sumar novos eventos. Mantéñense abertas EX01-COMP-001 e EX01-COMP-002; a presente actualización non resolve datas nin horas discrepantes.
 
 ## Estado e traballo pendente
 
-A clasificación inicial do centro e a validación dos seus oito incluídos fronte aos 17 anteriores quedan documentadas. Non se ampliou a recollida de eventos. A mensaxe desta sesión quedou interrompida no apartado de La Región tras «Tres exposicións aparecen»; queda pendente recibir o resto antes de asumir novas instrucións sobre esa fonte ou o peche desta fase.
+A clasificación inicial do centro e a validación dos seus oito incluídos fronte aos 17 anteriores quedan documentadas. Non se ampliou a recollida de eventos. Recibiuse a continuación da mensaxe sobre La Región / Press Club e incorporáronse as versións de datas e os horarios comunicados. O **EX01 segue aberto**; non se considera pechado nin se inicia o desenvolvemento do MVP.
 
 Mantéñense como traballo futuro completar URL e fichas individuais, lugares municipais, programa do Samaín, copia do programa da UNED e evidencias das discrepancias. Non se converten os requisitos de acceso nun criterio de clasificación cultural nin se toman decisións de produto ou arquitectura.
+
+### Punto de continuación
+
+A seguinte fase será analizar de maneira máis sistemática La Región e Press Club: cobertura adicional respecto aos tres inventarios, duplicados, fragmentación entre plataformas, discrepancias de datas/horas/lugares e completitude e calidade dos datos. Esta fase queda planificada, non executada nesta entrega. Mantéñense os 25 eventos únicos observados dos tres inventarios, coas limitacións da validación documental.
