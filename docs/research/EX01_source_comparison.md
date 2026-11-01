@@ -1,6 +1,6 @@
 # Experimento 01 — Comparación de fontes
 
-Estado: resultado provisional documentado; EX01 en pausa · Actualización documental: 29/10/2026.
+Estado: resultado provisional de tres inventarios documentado · Actualización: 01/11/2026.
 
 ## Obxectivo, alcance e procedencia
 
@@ -8,7 +8,7 @@ Documentar a exploración da cobertura, complementariedade, solapamento e calida
 
 O proxecto continúa en Product Discovery. Estes criterios son operativos para o experimento; non definen o produto, o MVP nin a arquitectura.
 
-Este caderno incorpora a investigación xa realizada na conversa principal, segundo o [traspaso textual achegado](evidence/EX01_source_comparison_traspaso_2026-10-29.txt), e a [actualización de decisións comunicada polo usuario](evidence/EX01_classification_decisions_2026-10-29.md). Non se repetiu a inspección das webs nin se verificaron de novo as ligazóns externas. As observacións manuais seguintes son **relatadas no traspaso**, non comprobacións independentes efectuadas nesta sesión.
+Este caderno incorpora a investigación xa realizada na conversa principal, segundo o [traspaso textual achegado](evidence/EX01_source_comparison_traspaso_2026-10-29.txt), e a [actualización de decisións comunicada polo usuario](evidence/EX01_classification_decisions_2026-10-29.md). A clasificación do centro e a validación documental posterior constan no [rexistro do 01/11](evidence/EX01_marcos_valcarcel_decisions_2026-11-01.md) e na [matriz de contraste](EX01_marcos_valcarcel_overlap.md). Non se repetiu a inspección das webs nin se verificaron de novo as ligazóns externas. As observacións manuais seguintes son **relatadas no traspaso**, non comprobacións independentes efectuadas nesta sesión.
 
 Mantéñense as categorías de evidencia do [caderno da Xunta](EX01_xunta_api.md): documentado, verificado na evidencia conservada, comprobación previa relatada e hipótese. O traspaso conserva un relato da investigación; non substitúe as capturas ou respostas orixinais das fontes.
 
@@ -24,9 +24,11 @@ O caderno anterior propoñía continuar con Turismo Ourense. A fonte municipal i
 | Excluír | Competicións deportivas; actos exclusivamente administrativos ou institucionais; actividades comerciais sen compoñente cultural diferenciado; mercados ou mercadiños exclusivamente comerciais. |
 | Avaliar individualmente | Xornadas, conferencias, presentacións e actividades de temática social ou institucional cando a súa inclusión non estea clara. |
 
+A clasificación baséase na natureza, contido e finalidade cultural, artística, literaria ou divulgativa, no municipio e na coincidencia temporal coa xanela. **As condicións de acceso non determinan a inclusión cultural:** requirir invitación, inscrición, reserva ou pagamento non é motivo de exclusión. Un acto institucional non se exclúe por precisar invitación, senón polo seu contido.
+
 A unidade de análise é **un evento único**, con independencia do número de fontes que o publiquen. Unha exposición de varios días conta como un evento. Unha programación composta, como o Samaín, conta inicialmente como un evento principal: deben conservarse as actividades integrantes, horarios e lugares cando se dispoña da evidencia, sen sumalas automaticamente ao reconto de eventos únicos.
 
-Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento cultural incluído son unidades diferentes. Non se suman automaticamente os recontos das fontes: cómpre considerar as coincidencias identificadas. Nesta comparación non se identificaron duplicados entre os inventarios incluídos da Xunta e do Concello, polo que a unión observada suma 17 eventos. Non se deduce a cobertura global a partir desta mostra.
+Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento cultural incluído son unidades diferentes. Non se suman automaticamente os recontos das fontes: cómpre considerar as coincidencias identificadas. Nesta comparación non se identificaron duplicados entre os inventarios incluídos da Xunta e do Concello, polo que a comparación inicial observada sumaba 17 eventos. Coa incorporación validada dos oito do centro, o resultado dos tres inventarios é de 25 eventos únicos observados. Non se deduce a cobertura global a partir desta mostra.
 
 ## Estado da exploración
 
@@ -34,7 +36,7 @@ Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento
 | --- | --- | --- |
 | Xunta | 12 rexistros da API; evidencia conservada no caderno específico | 12 incluídos; 0 excluídos |
 | Concello | 7 rexistros examinados | 5 incluídos e 2 excluídos, provisionalmente |
-| Marcos Valcárcel | 9 candidatos: 6 actividades e 3 exposicións | Pendente de decisión individual |
+| Marcos Valcárcel | 9 candidatos: 6 actividades e 3 exposicións | 8 incluídos; 1 excluído |
 | La Región / Press Club | Tres exposicións coincidentes co centro e unha conferencia en Press Club | Exploración parcial; sen reconto cultural definitivo |
 | Deputación | Axenda e recursos revisados manualmente | Sen inventario cultural definitivo |
 
@@ -69,19 +71,23 @@ Fontes relatadas:
 - <https://www.centroculturaldeourense.com/actividades>
 - <https://www.centroculturaldeourense.com/exposicions-actuais>
 
-Identificáronse **nove candidatos**, sen decisión cultural definitiva. As referencias `MV-*` son locais.
+Clasificáronse **nove candidatos: oito incluídos e un excluído**, segundo as decisións comunicadas polo usuario o 01/11/2026. As referencias `MV-*` son locais.
 
 | Ref. | Candidato | Datas relatadas de 2026 | Estado |
 | --- | --- | --- | --- |
-| MV-01 | Juan Lobato: «Ética e política» | 29/10 | Pendente de clasificación |
-| MV-02 | Punto y seguido | 04/11 | Pendente de clasificación |
-| MV-03 | Carlos Ortega Bernabé: conferencia sobre as unidades de emerxencias internacionais da Cruz Vermella | 05/11 | Pendente de clasificación |
-| MV-04 | Inauguración UNED Ourense | 06/11 | Pendente de clasificación |
-| MV-05 | I Xornada Internacional da Lonxevidade | 07/11 | Pendente de clasificación |
-| MV-06 | Ciencia Calidade 2026 | 07/11 | Pendente de clasificación |
-| MV-07 | Pateiro — El aprendiz de arquero | 07/10–08/11 | Exposición candidata; datas discrepantes con La Región |
-| MV-08 | 31 OFF. Terra do Anel, unha viaxe entre reinos | 17/09–01/11 | Exposición candidata |
-| MV-09 | Esteban Deláiglesia — Ecosistema dunha rodaxe | 18/09–01/11 | Exposición candidata |
+| MV-01 | Juan Lobato: «Ética e política» | 29/10 | Incluído — divulgación social e humanística |
+| MV-02 | Punto y seguido | 04/11 | Incluído — literatura e dinamización cultural |
+| MV-03 | Carlos Ortega Bernabé: conferencia sobre as unidades de emerxencias internacionais da Cruz Vermella | 05/11 | Incluído — divulgación social e humanitaria |
+| MV-04 | Inauguración UNED Ourense | 06/11 | Excluído — acto institucional e protocolario, sen programación cultural identificada |
+| MV-05 | I Xornada Internacional da Lonxevidade | 07/11 | Incluído — divulgación científica e social |
+| MV-06 | Ciencia Calidade 2026 | 07/11 | Incluído — divulgación científica |
+| MV-07 | Pateiro — El aprendiz de arquero | 07/10–08/11 | Incluído — exposición; datas discrepantes con La Región |
+| MV-08 | 31 OFF. Terra do Anel, unha viaxe entre reinos | 17/09–01/11 | Incluído — exposición |
+| MV-09 | Esteban Deláiglesia — Ecosistema dunha rodaxe | 18/09–01/11 | Incluído — exposición |
+
+A Inauguración da UNED exclúese polo programa relatado polo usuario: intervencións de autoridades, de carácter institucional e protocolario, sen programación cultural identificada. A invitación é o soporte do programa, non o motivo de exclusión; non se achegou a copia nesta sesión. As demais conferencias, xornadas e obradoiros inclúense pola súa finalidade divulgativa, literaria ou de dinamización cultural.
+
+A [validación por evento](EX01_marcos_valcarcel_overlap.md) non identifica duplicados entre os oito incluídos e os 17 rexistros culturais anteriores, cos límites de evidencia alí detallados.
 
 A web ofrece fichas individuais con campos variables segundo a actividade. A ficha de *El aprendiz de arquero* contén lugar, horarios, prezo, organizador e patrocinador, segundo a inspección relatada. URL individual identificada no traspaso: <https://www.centroculturaldeourense.com/exposicions/el-aprendiz-de-arquero>. Os valores destes campos non foron transcritos e non se completan por inferencia.
 
@@ -146,7 +152,7 @@ Non se localizaron axendas equivalentes nas webs revisadas do CCP Xaquín Lorenz
 | Calidade xeográfica | Casos do Teatro Principal e do roteiro A Esmorga | Véxase o caderno da Xunta; o roteiro non se clasifica como erro |
 | Heteroxeneidade | Estruturas e detalle diferentes nas fontes revisadas | Non se extrapola a toda a programación da cidade |
 
-O resultado comparativo é de **17 eventos únicos observados**, sen estimar porcentaxes de cobertura nin unha fonte gañadora. As capturas mencionadas na investigación principal non se achegaron a esta sesión; o relato non se presenta como recollida plenamente reproducible.
+O resultado inicial Xunta–Concello foi de **17 eventos únicos observados**; a incorporación do centro ofrece **25 eventos únicos observados**, sen estimar porcentaxes de cobertura nin unha fonte gañadora. As capturas mencionadas na investigación principal non se achegaron a esta sesión; o relato non se presenta como recollida plenamente reproducible.
 
 ## Resultado da comparación Xunta–Concello
 
@@ -159,17 +165,24 @@ O resultado comparativo é de **17 eventos únicos observados**, sen estimar por
 
 A clasificación e o resultado da comparación proceden das decisións comunicadas polo usuario o 29/10/2026; non dunha nova inspección das fontes nesta sesión. A táboa de clasificación individual figura no [caderno da Xunta](EX01_xunta_api.md#clasificación-cultural--29102026). O Samaín mantense como un único evento composto e as exposicións de varios días como un evento cada unha.
 
-**17 non representa a cobertura cultural total de Ourense nin garante a exhaustividade das fontes.** A ausencia de duplicados identificados describe a comparación observada, non unha proba de inexistencia de duplicados non detectados. Non se achegou unha matriz detallada de emparellamento entre fontes nesta actualización. Mantéñense pendentes as URL individuais e as evidencias manuais que limitan a reproducibilidade. Os nove candidatos do Marcos Valcárcel e as publicacións de La Región non se suman a estes 17.
+**17 non representa a cobertura cultural total de Ourense nin garante a exhaustividade das fontes.** A ausencia de duplicados identificados describe a comparación observada, non unha proba de inexistencia de duplicados non detectados. Non se achegou unha matriz detallada de emparellamento entre fontes nesta actualización. Mantéñense pendentes as URL individuais e as evidencias manuais que limitan a reproducibilidade. Este é o resultado histórico de dúas fontes. Os oito incluídos do centro incorpóranse no apartado seguinte; as publicacións coincidentes de La Región non se contan de novo.
 
-## Pausa do EX01 e traballo futuro
+## Resultado actualizado: Xunta–Concello–Marcos Valcárcel
 
-A clasificación dos 12 rexistros da Xunta e a comparación cos 5 eventos incluídos do Concello quedan documentadas. **O EX01 queda en pausa**, sen ampliar a investigación nesta entrega.
+| Fonte / medida | Resultado |
+| --- | --- |
+| Xunta: examinados / incluídos / excluídos | 12 / 12 / 0 |
+| Concello: examinados / incluídos / excluídos | 7 / 5 / 2 |
+| Marcos Valcárcel: examinados / incluídos / excluídos | 9 / 8 / 1 |
+| Duplicados identificados entre os tres inventarios incluídos | 0 |
+| Eventos únicos observados | **12 + 5 + 8 = 25** |
 
-Nunha eventual continuación poderase:
+O reconto actualízase despois do [contraste de título, temática, data, lugar dispoñible e eventos compostos](EX01_marcos_valcarcel_overlap.md), non como aceptación automática da hipótese inicial. Os lugares municipais non quedaron inventariados por rexistro e a programación completa do Samaín non está conservada: a validación é documental e revisable. **25 non representa a cobertura cultural total de Ourense nin garante a exhaustividade das fontes.**
 
-- Ampliar a comparación a Marcos Valcárcel e La Región, clasificando os candidatos e evitando contar de novo eventos coincidentes.
-- Completar URL individuais, capturas ou texto orixinal e a trazabilidade do emparellamento entre fontes.
-- Conservar a programación detallada do Samaín sen duplicar o reconto principal.
-- Resolver con evidencia as discrepancias temporais xa rexistradas, mantendo os valores publicados por cada fonte.
+As tres exposicións compartidas con La Región e a publicación de Juan Lobato en Press Club corresponden a eventos xa incluídos do centro, sen sumar novos eventos. Mantéñense abertas EX01-COMP-001 e EX01-COMP-002; a presente actualización non resolve datas nin horas discrepantes.
 
-Estas son posibilidades futuras, non tarefas iniciadas nin conclusións sobre o produto.
+## Estado e traballo pendente
+
+A clasificación inicial do centro e a validación dos seus oito incluídos fronte aos 17 anteriores quedan documentadas. Non se ampliou a recollida de eventos. A mensaxe desta sesión quedou interrompida no apartado de La Región tras «Tres exposicións aparecen»; queda pendente recibir o resto antes de asumir novas instrucións sobre esa fonte ou o peche desta fase.
+
+Mantéñense como traballo futuro completar URL e fichas individuais, lugares municipais, programa do Samaín, copia do programa da UNED e evidencias das discrepancias. Non se converten os requisitos de acceso nun criterio de clasificación cultural nin se toman decisións de produto ou arquitectura.

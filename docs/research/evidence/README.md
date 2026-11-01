@@ -27,3 +27,7 @@ Non se substitúen estas evidencias históricas por respostas actuais sen identi
 ## Actualización da clasificación — 29/10/2026
 
 [EX01_classification_decisions_2026-10-29.md](EX01_classification_decisions_2026-10-29.md) rexistra as decisións comunicadas directamente polo usuario: 12 inclusións da Xunta, criterio ampliado, comparación de 17 eventos únicos observados e pausa do experimento. É un rexistro documental de decisións, non unha nova evidencia HTTP nin unha transcrición de fichas. O traspaso anterior consérvase como estado histórico, aínda que nel a clasificación figurase pendente.
+
+## Clasificación e validación do centro — 01/11/2026
+
+[EX01_marcos_valcarcel_decisions_2026-11-01.md](EX01_marcos_valcarcel_decisions_2026-11-01.md) rexistra as decisións recibidas (8 inclusións e 1 exclusión), o criterio de acceso e a interrupción da mensaxe. Non substitúe o programa de invitación da UNED, non achegado aquí. O [contraste documental](../EX01_marcos_valcarcel_overlap.md) identifica os inventarios utilizados, casos próximos e limitacións para o resultado de 25 eventos observados. Non se descargaron novas fichas nin se resolveron as incidencias de La Región / Press Club.
