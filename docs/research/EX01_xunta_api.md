@@ -1,6 +1,6 @@
 # Experimento 01 — API da Axenda de Cultura da Xunta
 
-Estado: clasificación completada; EX01 en pausa · Mostra: 28/10/2026 · Actualización: 29/10/2026.
+Estado: clasificación completada; EX01 aberto · Mostra: 28/10/2026 · Último seguimento: 01/11/2026.
 
 ## Contexto e obxectivo
 
@@ -139,3 +139,7 @@ A resposta conservada e as comprobacións previas amosan información estruturad
 - Condicións de reutilización dos datos; a dispoñibilidade pública non establece unha licenza.
 
 Actualización do 29/10/2026: a fonte municipal identificada é a [axenda do Concello](https://ourense.gal/es/proximoseventos/), en substitución da referencia anterior a Turismo Ourense. A exploración manual e os seus límites recóllense no [caderno de comparación](EX01_source_comparison.md). A clasificación queda completada: 12 incluídos e 0 excluídos. A comparación comunicada co Concello ofrece **17 eventos únicos observados** (12 + 5, sen duplicados identificados). O EX01 queda en pausa; a posible ampliación a Marcos Valcárcel e La Región é traballo futuro. Non se garante exhaustividade nin se estima a cobertura total de Ourense.
+
+### Seguimento do 01/11/2026
+
+O resultado de 17 anterior corresponde á comparación inicial Xunta–Concello. Tras clasificar os candidatos do Marcos Valcárcel e contrastar os oito incluídos cos inventarios previos, a [comparación actualizada de tres fontes](EX01_source_comparison.md#resultado-actualizado-xuntaconcellomarcos-valcárcel) rexistra 25 eventos únicos observados, sen duplicados identificados entre esas fontes e sen garantía de exhaustividade. As decisións e incidencias propias da Xunta non se modifican. O experimento segue aberto: a seguinte fase prevista é a análise sistemática de La Región / Press Club.
