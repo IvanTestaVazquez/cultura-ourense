@@ -147,3 +147,7 @@ O resultado de 17 anterior corresponde á comparación inicial Xunta–Concello.
 ### Seguimento do 02/11/2026
 
 A investigación posterior de La Región engade sete incorporacións provisionais tras contraste documental cos 25 anteriores: [32 eventos únicos observados provisionalmente](EX01_source_comparison.md#resultado-acumulado-provisional--02112026). Non cambia a clasificación dos 12 da Xunta nin resolve as súas incidencias. O EX01 segue aberto; as fontes candidatas e cuestións pendentes están no caderno de comparación.
+
+### Ampliación comunicada posteriormente o 02/11/2026
+
+O seguimento da investigación informa de 89 eventos provisionais (32+57), pero a [auditoría da ampliación](EX01_expansion_audit.md) non puido reconciliar individualmente os 57 adicionais. O reconto non se presenta como 89 eventos verificados nin como celebración efectiva confirmada. Mantéñense os resultados históricos e as incidencias propias da mostra da Xunta.
