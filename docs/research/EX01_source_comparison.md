@@ -1,6 +1,6 @@
 # Experimento 01 — Comparación de fontes
 
-Estado: resultado provisional de tres inventarios documentado · Actualización: 01/11/2026.
+Estado: EX01 aberto; reconto acumulado provisional · Actualización: 02/11/2026.
 
 ## Obxectivo, alcance e procedencia
 
@@ -8,7 +8,7 @@ Documentar a exploración da cobertura, complementariedade, solapamento e calida
 
 O proxecto continúa en Product Discovery. Estes criterios son operativos para o experimento; non definen o produto, o MVP nin a arquitectura.
 
-Este caderno incorpora a investigación xa realizada na conversa principal, segundo o [traspaso textual achegado](evidence/EX01_source_comparison_traspaso_2026-10-29.txt), e a [actualización de decisións comunicada polo usuario](evidence/EX01_classification_decisions_2026-10-29.md). A clasificación do centro e a validación documental posterior constan no [rexistro do 01/11](evidence/EX01_marcos_valcarcel_decisions_2026-11-01.md) e na [matriz de contraste](EX01_marcos_valcarcel_overlap.md). Non se repetiu a inspección das webs nin se verificaron de novo as ligazóns externas. As observacións manuais seguintes son **relatadas no traspaso**, non comprobacións independentes efectuadas nesta sesión.
+Este caderno incorpora a investigación xa realizada na conversa principal, segundo o [traspaso textual achegado](evidence/EX01_source_comparison_traspaso_2026-10-29.txt), e a [actualización de decisións comunicada polo usuario](evidence/EX01_classification_decisions_2026-10-29.md). A clasificación do centro e a validación documental posterior constan no [rexistro do 01/11](evidence/EX01_marcos_valcarcel_decisions_2026-11-01.md) e na [matriz de contraste](EX01_marcos_valcarcel_overlap.md). A investigación posterior sobre La Región / Press Club procede do [traspaso recibido o 02/11](evidence/EX01_laregion_traspaso_2026-11-02.txt). Nesta actualización contrástanse os inventarios documentados; non se repetiu a inspección das webs nin se verificaron de novo as ligazóns externas. As observacións manuais seguintes son **relatadas no traspaso**, non comprobacións independentes efectuadas nesta sesión.
 
 Mantéñense as categorías de evidencia do [caderno da Xunta](EX01_xunta_api.md): documentado, verificado na evidencia conservada, comprobación previa relatada e hipótese. O traspaso conserva un relato da investigación; non substitúe as capturas ou respostas orixinais das fontes.
 
@@ -21,7 +21,7 @@ O caderno anterior propoñía continuar con Turismo Ourense. A fonte municipal i
 | Decisión | Criterio |
 | --- | --- |
 | Incluír | Teatro e artes escénicas; música e concertos; cinema; exposicións; literatura; conferencias culturais; obradoiros culturais; divulgación científica, social e humanística; dinamización cultural infantil e fomento da lectura; festexos populares e celebracións con programación cultural ou festiva. |
-| Excluír | Competicións deportivas; actos exclusivamente administrativos ou institucionais; actividades comerciais sen compoñente cultural diferenciado; mercados ou mercadiños exclusivamente comerciais. |
+| Excluír | Competicións deportivas; actos exclusivamente administrativos ou institucionais; actividades comerciais sen compoñente cultural diferenciado; mercados ou mercadiños exclusivamente comerciais; servizos turísticos permanentes ou recorrentes sen convocatoria cultural específica. |
 | Avaliar individualmente | Xornadas, conferencias, presentacións e actividades de temática social ou institucional cando a súa inclusión non estea clara. |
 
 A clasificación baséase na natureza, contido e finalidade cultural, artística, literaria ou divulgativa, no municipio e na coincidencia temporal coa xanela. **As condicións de acceso non determinan a inclusión cultural:** requirir invitación, inscrición, reserva ou pagamento non é motivo de exclusión. Un acto institucional non se exclúe por precisar invitación, senón polo seu contido.
@@ -37,7 +37,8 @@ Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento
 | Xunta | 12 rexistros da API; evidencia conservada no caderno específico | 12 incluídos; 0 excluídos |
 | Concello | 7 rexistros examinados | 5 incluídos e 2 excluídos, provisionalmente |
 | Marcos Valcárcel | 9 candidatos: 6 actividades e 3 exposicións | 8 incluídos; 1 excluído |
-| La Región / Press Club | Tres exposicións e dúas conferencias coincidentes co centro | Exploración parcial; sen reconto cultural definitivo |
+| La Región | 7 incorporacións provisionais; coincidencias e exclusións documentadas abaixo | 7 eventos adicionais tras contraste documental; revisión non exhaustiva |
+| Press Club | 3 actividades do Foro e unha publicación sobre entradas de Judith Hill | 0 incorporacións únicas na sección revisada; non exhaustivo do histórico |
 | Deputación | Axenda e recursos revisados manualmente | Sen inventario cultural definitivo |
 
 Estes datos describen a exploración realizada; non son medidas comparables de cobertura final.
@@ -141,9 +142,91 @@ A exploración ofrece indicios de fragmentación entre plataformas dunha mesma o
 
 **Dato consistente segundo a revisión comunicada polo usuario o 01/11/2026:** as dúas publicacións coinciden na data e na hora. Rexístrase a coincidencia para que a análise de calidade recolla tamén datos consistentes. Non equivale a unha comprobación independente de todos os campos nin resolve as outras discrepancias. Non se achegaron nesta sesión as fichas orixinais nin as súas URL individuais. A publicación de Press Club non engade un evento único ao inventario.
 
-### Alcance parcial da revisión de La Región / Press Club
+### Incorporacións provisionais identificadas en La Región — 02/11/2026
 
-As tres exposicións compartidas son **tres eventos, non seis**. Tamén se identifican publicacións coincidentes para Ética e política e para a conferencia das ERUs. Estes cinco casos de publicación compartida pertencen aos oito incluídos do centro; non se suman eventos de La Región / Press Club ao reconto agregado. A identificación destes casos non é unha revisión exhaustiva das plataformas nin unha comparación completa de cobertura desa fonte.
+As sete actividades foron examinadas e aceptadas na investigación principal segundo o [traspaso recibido](evidence/EX01_laregion_traspaso_2026-11-02.txt). Os datos seguintes proceden dese relato; as URL individuais, capturas e programas completos non se achegaron nesta sesión. Non se inventan ligazóns nin se presenta esta táboa como unha nova comprobación das webs. As referencias `LR-*` son locais e identifican eventos, non publicacións nin IDs da fonte.
+
+| Ref. | Actividade | Data ou período relatado | Lugar relatado | Decisión / clasificación |
+| --- | --- | --- | --- | --- |
+| LR-01 | Nicolás Muller en Galicia | 17/09/2026–09/01/2027 | Afundación Ourense | Incluído provisionalmente — exposición fotográfica |
+| LR-02 | LSYTSDA (Lo siento, yo tampoco soy de aquí) | 24/09–13/11/2026 | Sala Alterarte, campus de Ourense | Incluído provisionalmente — artes visuais |
+| LR-03 | Judith Hill — O Gozo Festival | 05/11/2026, 20:00 | Teatro Principal | Incluído provisionalmente — música en directo |
+| LR-04 | CatArte 2026: sesión do 5 de novembro | 05/11/2026 | Centro Cultural Marcos Valcárcel | Incluído provisionalmente — música, cultura e gastronomía |
+| LR-05 | A manipulación no xornalismo e na historia | 29/10/2026 | Liceo de Ourense | Incluído provisionalmente — divulgación histórica, xornalística e social; hora discrepante |
+| LR-06 | A Auga na Historia II | 29/10/2026, 09:50 | Facultade de Historia, campus de Ourense | Incluído provisionalmente — divulgación histórica, científica e patrimonial |
+| LR-07 | A xoaniña que bebeu na folla — Fina Casalderrey | 29/10/2026, 18:00 | Facultade de Educación e Traballo Social | Incluído provisionalmente — divulgación literaria |
+
+#### Unidade de evento e límites temporais
+
+- **Nicolás Muller:** a exposición conta unha vez polo seu solapamento coa xanela. A visita guiada anunciada para o 05/11 queda pendente de decidir se é evento independente ou actividade asociada; non se suma automaticamente.
+- **CatArte:** o ciclo anuncia sesións os días 5, 12, 19 e 26 de novembro. Só a sesión do 5 entra no período 29/10–11/11. Contabilízase esa sesión, conservando a pertenza ao ciclo; non se conta ademais o ciclo como outro evento.
+- **A Auga na Historia II:** unha xornada con tres intervencións, un único evento; non se contabilizan por separado as intervencións.
+- **Fina Casalderrey:** a conferencia pertence a un ciclo de catro sesións de outubro; só a do 29 entra na xanela. Non se suman o ciclo nin as outras sesións.
+
+#### Contraste cos 25 eventos anteriores e entre as sete incorporacións
+
+Examinouse cada incorporación fronte aos 12 eventos da Xunta, os cinco incluídos do Concello e os oito do centro, utilizando título/identidade, temática, data, lugar dispoñible e pertenza a programacións compostas. Non se utilizou só a coincidencia literal do título. As datas e lugares novos proceden do traspaso; os lugares municipais por rexistro e o programa completo do Samaín seguen sen conservarse. A diferenza de lugar ou de data non se considera por si soa proba suficiente de independencia.
+
+| Ref. | Casos próximos e contraste documental | Resultado |
+| --- | --- | --- |
+| LR-01 | As exposicións anteriores tratan aviación, teares, libros/censura, Terra do Anel, rodaxe ou Pateiro; o patrimonio do Museo figura como Peza do mes. A exposición fotográfica identificada por Nicolás Muller e asociada a Afundación non coincide en identidade con ningunha. | Sen duplicado identificado; un evento. Visita pendente, sen incremento. |
+| LR-02 | A identidade LSYTSDA e a Sala Alterarte distinguen esta mostra das exposicións e actividades anteriores e da exposición de Nicolás Muller. Compartir artes visuais ou período non permite fusionalas. | Sen duplicado identificado; un evento continuado. |
+| LR-03 | No Teatro Principal xa consta A serie clopen (30/10), unha proposta escénica distinta do concerto de Judith Hill (05/11). Os espectáculos municipais teñen outras identidades; a promoción de entradas en Press Club refírese ao mesmo concerto de Judith Hill. | Sen duplicado cos 25; a promoción non engade outro evento. |
+| LR-04 | A sesión musical, cultural e gastronómica do 05/11 non se identifica cos oito eventos do centro. As ERUs comparten centro e día, pero son outra temática e actividade; as campañas contra o sexismo da Xunta teñen outro contido e espazo asociado. Non se supón que CatArte sexa parte desas conferencias por compartir data. | Sen duplicado identificado; unha sesión, non o ciclo completo. |
+| LR-05 | Ética e política e os roteiros da Xunta comparten o 29/10, pero teñen outras identidades e contidos. Esta conferencia trata manipulación no xornalismo e na historia no Liceo. As publicacións do Liceo e Turismo mencionadas no traspaso refírense a ela e non engaden eventos. | Sen duplicado identificado; hora non resolta. |
+| LR-06 | A xornada sobre auga ten identidade e programa propios fronte á Peza do mes e aos roteiros da Xunta, ás conferencias do centro e á exposición de aviación municipal. Compartir divulgación histórica non establece identidade. As tres intervencións non son tres eventos novos. | Sen duplicado identificado; unha xornada. |
+| LR-07 | A conferencia de Fina Casalderrey ten autoría e título propios fronte ás actividades lectoras da Biblioteca e Punto y seguido do centro. A súa pertenza a un ciclo literario non a identifica con esas actividades. | Sen duplicado identificado; unha conferencia do 29/10. |
+
+Entre as sete actividades non se identificou relación de duplicación nin principal–subactividade que esixa fusionalas. Ningunha se identificou como parte do Samaín; as novas actividades puntuais son do 29/10 ou do 05/11, mentres o evento composto municipal figura o 31/10. Consérvase a limitación do seu programa incompleto, sen inferir independencia só pola data. **O contraste documental permite incorporar provisionalmente sete eventos aos 25 anteriores: 32 eventos únicos observados provisionalmente.** Non equivale a verificación completa das fichas nin garante ausencia de duplicados non detectados.
+
+### Outros candidatos examinados en La Región
+
+| Actividade | Decisión | Encaixe no inventario / motivo |
+| --- | --- | --- |
+| Centenario de los grandes vuelos de la aviación española | Duplicado | Mesmo evento que MUN-01, con título en castelán; non se suma de novo. |
+| Visita guiada á Catedral de Ourense | Excluída | Servizo turístico recorrente sen convocatoria cultural específica, segundo a revisión relatada. |
+| Magosto de Barra de Miño | Excluído | Barra de Miño pertence a Coles, fóra do municipio de Ourense, segundo o traspaso. |
+
+A exclusión da visita á Catedral non exclúe todas as visitas guiadas: un roteiro ou unha visita extraordinaria cunha convocatoria cultural identificable pode cumprir os criterios. Non se exclúe por prezo ou reserva. Estes rexistros non representan un inventario completo das exclusións ou publicacións históricas da fonte.
+
+### Press Club: coincidencias identificadas e alcance da revisión
+
+| Publicación / actividade revisada | Evento xa contabilizado | Dato adicional / resultado |
+| --- | --- | --- |
+| Ética e política — 29/10 | MV-01 | Mesmo evento; discrepancia 20:15 / 19:45 conservada en EX01-COMP-002. |
+| ERUs da Cruz Vermella — 05/11 | MV-03 | Mesmo evento; 19:45 en ambas as fontes, EX01-COMP-004. |
+| I Xornada Internacional da Lonxevidade — 07/11 | MV-05 | Mesmo evento; Press Club ofrece programa máis detallado e horario 09:00–14:15, segundo o traspaso. |
+| Publicación sobre entradas de Judith Hill | LR-03 | Promoción do concerto xa contado; non é outro evento. |
+
+As tres actividades da sección Foro non engaden eventos únicos; tampouco a publicación de entradas. A revisión realizada non identificou novos eventos únicos nesa sección, pero **non é unha revisión exhaustiva de todas as publicacións históricas de Press Club**. O detalle do programa da lonxevidade non implica por si só maior exactitude nin resolve outras discrepancias.
+
+As tres exposicións compartidas con La Región seguen sendo **tres eventos, non seis**. Consérvanse as versións de Pateiro en EX01-COMP-001. Sumando o centenario da aviación e as coincidencias de Press Club, existen varias publicacións de eventos xa incluídos; non se estima un número total de publicacións porque non se inventariaron todas individualmente.
+
+### EX01-COMP-005 — Hora de A manipulación no xornalismo e na historia
+
+| Procedencia relatada | Data e hora |
+| --- | --- |
+| La Región: artigo de axenda diaria | 29/10/2026, 20:00 |
+| Axenda do Liceo | 29/10/2026, 19:30 |
+| Turismo de Ourense | 29/10/2026, 19:30 |
+
+**Discrepancia non resolta, de 30 minutos.** Os valores proceden do traspaso; non se achegaron as URL individuais ou capturas nin se verificaron de novo nesta sesión. Non se escolle a hora correcta por maioría de publicacións nin se supón unha causa. O evento conta unha vez malia as versións horarias.
+
+### EX01-COMP-006 — CatArte: posible cobertura complementaria
+
+Segundo a revisión relatada, CatArte aparece en La Región, na axenda de Turismo de Ourense, na web específica do evento e nunha plataforma de venda de entradas. Non se achegaron as URL individuais nin o nome da plataforma e non se inventan.
+
+Rexístrase como **«non localizado na axenda consultada do Marcos Valcárcel»**, malia celebrarse nese centro. Non equivale a ausencia absoluta de publicación polo centro. É un indicio de posible cobertura complementaria entre fontes; a independencia das publicacións e a cobertura global non están demostradas.
+
+### Fragmentación e unidades de reconto
+
+A investigación relatada identificou actividades na axenda xeral, en artigos de axenda diaria, en Foro / Press Club e en publicacións especializadas ou promocións de entradas. Son canles que poden repetir información; non se supón que sexan fontes independentes.
+
+- **Evento único:** actividade identificada, contada unha vez segundo os criterios do EX01.
+- **Publicación:** ficha, artigo ou promoción que pode describir un evento xa rexistrado. Non se dispón dun reconto completo de publicacións.
+- **Fonte ou canle:** lugar onde aparece a publicación; varias canles poden pertencer á mesma organización e non xeran eventos adicionais.
+
+As sete incorporacións son contribución adicional identificada durante a análise de La Región, non sete eventos exclusivos desa fonte. A investigación consultou outras referencias segundo o traspaso, sen completar aínda inventarios exhaustivos desas fontes.
 
 ## Deputación de Ourense
 
@@ -160,14 +243,14 @@ Non se localizaron axendas equivalentes nas webs revisadas do CCP Xaquín Lorenz
 | Achado na mostra | Sustento relatado | Límite |
 | --- | --- | --- |
 | Fragmentación entre fontes | 12 eventos incluídos da Xunta e 5 do Concello, sen duplicados identificados | Resultado limitado aos inventarios observados; exhaustividade non garantida |
-| Fragmentación interna | Conferencia en Press Club non observada na listaxe xeral consultada | Non é unha revisión exhaustiva de todas as plataformas |
-| Solapamento de publicacións | Tres exposicións compartidas por Marcos Valcárcel e La Región | Falta evidencia individual sistemática |
-| Inconsistencias temporais | Intervalos de El aprendiz de arquero, incluída a diferenza interna listaxe/ficha do centro, e horas de Juan Lobato | Non se resolveu o dato correcto nin a causa |
+| Fragmentación interna | Axenda xeral, artigos diarios, Foro / Press Club e promocións | Non se asume independencia entre canles nin revisión exhaustiva |
+| Solapamento de publicacións | Exposicións, aviación, tres actividades de Foro e promoción de Judith Hill | Non sumar publicacións; falta inventario individual completo |
+| Inconsistencias temporais | Intervalos de El aprendiz de arquero, incluída a diferenza interna listaxe/ficha do centro, e horas de Juan Lobato e da conferencia do Liceo | Non se resolveu o dato correcto nin a causa |
 | Consistencia temporal | ERUs: 05/11 ás 19:45 tanto no centro como en Press Club | Coincidencia relatada destes campos, non validación de toda a fonte |
 | Calidade xeográfica | Casos do Teatro Principal e do roteiro A Esmorga | Véxase o caderno da Xunta; o roteiro non se clasifica como erro |
 | Heteroxeneidade | Estruturas e detalle diferentes nas fontes revisadas | Non se extrapola a toda a programación da cidade |
 
-O resultado inicial Xunta–Concello foi de **17 eventos únicos observados**; a incorporación do centro ofrece **25 eventos únicos observados**, sen estimar porcentaxes de cobertura nin unha fonte gañadora. As capturas mencionadas na investigación principal non se achegaron a esta sesión; o relato non se presenta como recollida plenamente reproducible.
+O resultado inicial Xunta–Concello foi de **17 eventos únicos observados**; a incorporación do centro ofrece **25 eventos únicos observados**, como resultado histórico. A análise posterior engade sete eventos e ofrece **32 provisionais**, sen estimar porcentaxes de cobertura nin unha fonte gañadora. As capturas mencionadas na investigación principal non se achegaron a esta sesión; o relato non se presenta como recollida plenamente reproducible.
 
 ## Resultado da comparación Xunta–Concello
 
@@ -196,12 +279,36 @@ O reconto actualízase despois do [contraste de título, temática, data, lugar 
 
 As tres exposicións compartidas con La Región e as publicacións de Juan Lobato e das ERUs en Press Club corresponden a eventos xa incluídos do centro, sen sumar novos eventos. Mantéñense abertas EX01-COMP-001 e EX01-COMP-002; a presente actualización non resolve datas nin horas discrepantes.
 
-## Estado e traballo pendente
+## Resultado acumulado provisional — 02/11/2026
 
-A clasificación inicial do centro e a validación dos seus oito incluídos fronte aos 17 anteriores quedan documentadas. Non se ampliou a recollida de eventos. Recibiuse a continuación da mensaxe sobre La Región / Press Club e incorporáronse as versións de datas e os horarios comunicados. O **EX01 segue aberto**; non se considera pechado nin se inicia o desenvolvemento do MVP.
+| Contribución ao inventario único | Eventos |
+| --- | --- |
+| Xunta | 12 |
+| Concello | 5 |
+| Marcos Valcárcel | 8 |
+| Incorporacións provisionais da análise de La Región | 7 |
+| Eventos adicionais únicos da sección Press Club revisada | 0 |
+| Total acumulado observado provisionalmente | **25 + 7 = 32** |
 
-Mantéñense como traballo futuro completar URL e fichas individuais, lugares municipais, programa do Samaín, copia do programa da UNED e evidencias das discrepancias. Non se converten os requisitos de acceso nun criterio de clasificación cultural nin se toman decisións de produto ou arquitectura.
+Non se identificaron duplicados das sete incorporacións cos 25 anteriores no contraste documental arriba indicado. O duplicado da aviación, as tres exposicións compartidas, as actividades coincidentes de Foro e a promoción de Judith Hill **non incrementan o reconto**. As dúas exclusións de La Región e a visita de Nicolás Muller pendente tampouco se suman. Non se ofrece unha suma bruta de eventos por fonte: unha mesma actividade pode estar publicada en varias.
 
-### Punto de continuación
+O total de **32 é provisional**, non representa toda a programación cultural de Ourense, non garante exhaustividade das fontes nin unha deduplicación definitiva con toda a evidencia individual. A base documental anterior de 25 consérvase como resultado histórico; as sete incorporacións proveñen da investigación relatada e do contraste cos inventarios, sen novas consultas nesta sesión. Mantéñense as discrepancias non resoltas e as limitacións de URL, fichas, lugares municipais e programas compostos.
 
-A seguinte fase será analizar de maneira máis sistemática La Región e Press Club: cobertura adicional respecto aos tres inventarios, duplicados, fragmentación entre plataformas, discrepancias de datas/horas/lugares e completitude e calidade dos datos. Esta fase queda planificada, non executada nesta entrega. Mantéñense os 25 eventos únicos observados dos tres inventarios, coas limitacións da validación documental.
+## Estado e cuestións pendentes
+
+O **EX01 segue aberto**. Esta entrega documenta a investigación recibida; non inicia o MVP nin o desenvolvemento. Queda pendente decidir a unidade da visita guiada de Nicolás Muller, conservar as URL e evidencias individuais das novas actividades e revisar as discrepancias de datas e horas con evidencias suficientes. Non se aplican regras de inclusión baseadas en invitación, inscrición, reserva, gratuidade ou pagamento.
+
+### Fontes candidatas e punto de continuación
+
+Identificadas no traspaso como posibles fontes posteriores, **sen orde definitiva nin investigación exhaustiva nesta entrega**:
+
+- Afundación Ourense e os seus centros culturais.
+- Universidade de Vigo: campus de Ourense e Sala Alterarte.
+- Turismo de Ourense e a súa axenda: investigar se agrega actividades de diferentes organizadores; por agora é unha hipótese, non unha conclusión.
+- Teatro Principal de Ourense.
+- Liceo de Ourense.
+- Asociación de Escritoras e Escritores en Lingua Galega (AELG).
+
+A referencia anterior a unha URL turística que non funcionaba non demostra inexistencia dunha axenda turística. A nova investigación menciona publicacións de Turismo, pero o traspaso non proporciona unha URL de axenda válida; queda pendente inventariala sen substituír a fonte municipal xa identificada. Tampouco se inventan URL para as demais candidatas.
+
+A continuación consistirá en seguir investigando cobertura adicional e posibles solapamentos entre as fontes candidatas e as xa estudadas, ademais da fragmentación, completitude e calidade de La Región / Press Club. Non se considera pechado o experimento nin se establece unha prioridade nova sen decisión posterior.

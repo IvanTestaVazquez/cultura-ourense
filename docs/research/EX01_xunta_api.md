@@ -143,3 +143,7 @@ Actualización do 29/10/2026: a fonte municipal identificada é a [axenda do Con
 ### Seguimento do 01/11/2026
 
 O resultado de 17 anterior corresponde á comparación inicial Xunta–Concello. Tras clasificar os candidatos do Marcos Valcárcel e contrastar os oito incluídos cos inventarios previos, a [comparación actualizada de tres fontes](EX01_source_comparison.md#resultado-actualizado-xuntaconcellomarcos-valcárcel) rexistra 25 eventos únicos observados, sen duplicados identificados entre esas fontes e sen garantía de exhaustividade. As decisións e incidencias propias da Xunta non se modifican. O experimento segue aberto: a seguinte fase prevista é a análise sistemática de La Región / Press Club.
+
+### Seguimento do 02/11/2026
+
+A investigación posterior de La Región engade sete incorporacións provisionais tras contraste documental cos 25 anteriores: [32 eventos únicos observados provisionalmente](EX01_source_comparison.md#resultado-acumulado-provisional--02112026). Non cambia a clasificación dos 12 da Xunta nin resolve as súas incidencias. O EX01 segue aberto; as fontes candidatas e cuestións pendentes están no caderno de comparación.
