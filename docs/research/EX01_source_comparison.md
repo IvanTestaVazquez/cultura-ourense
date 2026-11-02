@@ -1,6 +1,6 @@
 # Experimento 01 — Comparación de fontes
 
-Estado: EX01 aberto; reconto acumulado provisional · Actualización: 02/11/2026.
+Estado: EX01 aberto; 89 reconciliados nominalmente, con evidencia e campos pendentes · Actualización: 02/11/2026.
 
 ## Obxectivo, alcance e procedencia
 
@@ -8,7 +8,7 @@ Documentar a exploración da cobertura, complementariedade, solapamento e calida
 
 O proxecto continúa en Product Discovery. Estes criterios son operativos para o experimento; non definen o produto, o MVP nin a arquitectura.
 
-Este caderno incorpora a investigación xa realizada na conversa principal, segundo o [traspaso textual achegado](evidence/EX01_source_comparison_traspaso_2026-10-29.txt), e a [actualización de decisións comunicada polo usuario](evidence/EX01_classification_decisions_2026-10-29.md). A clasificación do centro e a validación documental posterior constan no [rexistro do 01/11](evidence/EX01_marcos_valcarcel_decisions_2026-11-01.md) e na [matriz de contraste](EX01_marcos_valcarcel_overlap.md). A investigación posterior sobre La Región / Press Club procede do [traspaso recibido o 02/11](evidence/EX01_laregion_traspaso_2026-11-02.txt). Nesta actualización contrástanse os inventarios documentados; non se repetiu a inspección das webs nin se verificaron de novo as ligazóns externas. As observacións manuais seguintes son **relatadas no traspaso**, non comprobacións independentes efectuadas nesta sesión.
+Este caderno incorpora a investigación xa realizada na conversa principal, segundo o [traspaso textual achegado](evidence/EX01_source_comparison_traspaso_2026-10-29.txt), e a [actualización de decisións comunicada polo usuario](evidence/EX01_classification_decisions_2026-10-29.md). A clasificación do centro e a validación documental posterior constan no [rexistro do 01/11](evidence/EX01_marcos_valcarcel_decisions_2026-11-01.md) e na [matriz de contraste](EX01_marcos_valcarcel_overlap.md). A investigación posterior sobre La Región / Press Club procede do [traspaso recibido o 02/11](evidence/EX01_laregion_traspaso_2026-11-02.txt). Na entrega anterior contrastáronse os inventarios sen repetir a inspección das webs. A ampliación posterior comunicada polo usuario (32→89) e as comprobacións limitadas desta sesión están na [auditoría da ampliación](EX01_expansion_audit.md). O complemento posterior permite reconciliar nominalmente os 89, sen verificación independente completa de todas as fontes. As observacións manuais seguintes son **relatadas no traspaso**, non comprobacións independentes efectuadas nesta sesión.
 
 Mantéñense as categorías de evidencia do [caderno da Xunta](EX01_xunta_api.md): documentado, verificado na evidencia conservada, comprobación previa relatada e hipótese. O traspaso conserva un relato da investigación; non substitúe as capturas ou respostas orixinais das fontes.
 
@@ -26,9 +26,13 @@ O caderno anterior propoñía continuar con Turismo Ourense. A fonte municipal i
 
 A clasificación baséase na natureza, contido e finalidade cultural, artística, literaria ou divulgativa, no municipio e na coincidencia temporal coa xanela. **As condicións de acceso non determinan a inclusión cultural:** requirir invitación, inscrición, reserva ou pagamento non é motivo de exclusión. Un acto institucional non se exclúe por precisar invitación, senón polo seu contido.
 
+Distinguiranse **evento anunciado**, **programación contrastada** e **celebración efectiva confirmada**. Un anuncio primario ou unha venda de entradas finalizada non proban por si sós celebración, cancelación nin aprazamento. Deben identificarse separadamente organizador, espazo, fonte publicadora e fonte confirmadora; compartir sede non implica compartir organización. O carácter privado, a gratuidade ou o pagamento non deciden a inclusión.
+
 A unidade de análise é **un evento único**, con independencia do número de fontes que o publiquen. Unha exposición de varios días conta como un evento. Unha programación composta, como o Samaín, conta inicialmente como un evento principal: deben conservarse as actividades integrantes, horarios e lugares cando se dispoña da evidencia, sen sumalas automaticamente ao reconto de eventos únicos.
 
-Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento cultural incluído son unidades diferentes. Non se suman automaticamente os recontos das fontes: cómpre considerar as coincidencias identificadas. Nesta comparación non se identificaron duplicados entre os inventarios incluídos da Xunta e do Concello, polo que a comparación inicial observada sumaba 17 eventos. Coa incorporación validada dos oito do centro, o resultado dos tres inventarios é de 25 eventos únicos observados. Non se deduce a cobertura global a partir desta mostra.
+Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento cultural incluído son unidades diferentes. Varias funcións ou sesións da mesma actividade non xeran automaticamente eventos distintos. Os ciclos e festas poden agruparse segundo a unidade do organizador, conservando a programación interna; cando falte, a unidade queda por revisar.
+
+Non se suman automaticamente os recontos das fontes: cómpre considerar as coincidencias identificadas. Nesta comparación non se identificaron duplicados entre os inventarios incluídos da Xunta e do Concello, polo que a comparación inicial observada sumaba 17 eventos. Coa incorporación validada dos oito do centro, o resultado dos tres inventarios é de 25 eventos únicos observados. Non se deduce a cobertura global a partir desta mostra.
 
 ## Estado da exploración
 
@@ -40,6 +44,10 @@ Un rexistro recuperado, un candidato, unha publicación noutra fonte e un evento
 | La Región | 7 incorporacións provisionais; coincidencias e exclusións documentadas abaixo | 7 eventos adicionais tras contraste documental; revisión non exhaustiva |
 | Press Club | 3 actividades do Foro e unha publicación sobre entradas de Judith Hill | 0 incorporacións únicas na sección revisada; non exhaustivo do histórico |
 | Deputación | Axenda e recursos revisados manualmente | Sen inventario cultural definitivo |
+| Turismo de Ourense | Axenda agregadora municipal, con programación de diferentes espazos | Cobertura ampliada relatada; URL de outubro comprobada na auditoría, sen exhaustividade |
+| Locais e salas privados / redes de organizadores | 23 actuacións recuperadas do historial | Programación relatada como contrastada; celebración efectiva non demostrada |
+| Cineclube, Museo, Biblioteca, Universidade/facultades e Liceo | Fontes de anuncios propios e espazos, segundo o caso | Contraste e faltas de evidencia na auditoría; non se recalculan totais por fonte |
+| Radio Liverdade | Medio con axenda agregadora | Consulta limitada; duplicados e novas versións discrepantes, sen sumar eventos alleos ao traspaso |
 
 Estes datos describen a exploración realizada; non son medidas comparables de cobertura final.
 
@@ -123,6 +131,8 @@ A axenda xeral abrangue distintos municipios da provincia e require filtrado xeo
 
 **Observación relatada:** é o mesmo evento, con horarios publicados que difiren en **30 minutos**. As dúas publicacións non se contan como dous eventos.
 
+**Actualización comunicada polo usuario:** detectouse unha referencia posterior a un posible aprazamento. Non se achegou a publicación nin se confirmou nesta sesión o estado ou a celebración efectiva. Non se elimina o evento nin se dá por celebrado.
+
 **Hipóteses non resoltas:** erro, cambio de programación ou distintos momentos do evento. Non se escolle ningunha explicación nin unha hora canónica. Faltan as URL individuais e as capturas ou transcricións completas.
 
 ### EX01-COMP-003 — Publicación e acceso entre plataformas
@@ -141,6 +151,8 @@ A exploración ofrece indicios de fragmentación entre plataformas dunha mesma o
 | Press Club | 05/11/2026, 19:45 | A mesma conferencia |
 
 **Dato consistente segundo a revisión comunicada polo usuario o 01/11/2026:** as dúas publicacións coinciden na data e na hora. Rexístrase a coincidencia para que a análise de calidade recolla tamén datos consistentes. Non equivale a unha comprobación independente de todos os campos nin resolve as outras discrepancias. Non se achegaron nesta sesión as fichas orixinais nin as súas URL individuais. A publicación de Press Club non engade un evento único ao inventario.
+
+Na consulta limitada do 02/11, Radio Liverdade anuncia as ERUs o 05/11 ás 19:30, fronte ás 19:45 anteriores. Consérvase esta terceira versión como discrepancia por revisar, sen invalidar a coincidencia relatada entre o centro e Press Club. Fonte e límites na auditoría.
 
 ### Incorporacións provisionais identificadas en La Región — 02/11/2026
 
@@ -279,7 +291,7 @@ O reconto actualízase despois do [contraste de título, temática, data, lugar 
 
 As tres exposicións compartidas con La Región e as publicacións de Juan Lobato e das ERUs en Press Club corresponden a eventos xa incluídos do centro, sen sumar novos eventos. Mantéñense abertas EX01-COMP-001 e EX01-COMP-002; a presente actualización non resolve datas nin horas discrepantes.
 
-## Resultado acumulado provisional — 02/11/2026
+## Resultado acumulado anterior: 32 — 02/11/2026
 
 | Contribución ao inventario único | Eventos |
 | --- | --- |
@@ -294,21 +306,51 @@ Non se identificaron duplicados das sete incorporacións cos 25 anteriores no co
 
 O total de **32 é provisional**, non representa toda a programación cultural de Ourense, non garante exhaustividade das fontes nin unha deduplicación definitiva con toda a evidencia individual. A base documental anterior de 25 consérvase como resultado histórico; as sete incorporacións proveñen da investigación relatada e do contraste cos inventarios, sen novas consultas nesta sesión. Mantéñense as discrepancias non resoltas e as limitacións de URL, fichas, lugares municipais e programas compostos.
 
-## Estado e cuestións pendentes
+## Ampliación: reconciliación nominal dos 89
 
-O **EX01 segue aberto**. Esta entrega documenta a investigación recibida; non inicia o MVP nin o desenvolvemento. Queda pendente decidir a unidade da visita guiada de Nicolás Muller, conservar as URL e evidencias individuais das novas actividades e revisar as discrepancias de datas e horas con evidencias suficientes. Non se aplican regras de inclusión baseadas en invitación, inscrición, reserva, gratuidade ou pagamento.
+O seguimento comunicaba 57 incorporacións sobre a base documental de 32. A primeira auditoría reconstruíra 52 unidades e deixara un saldo de cinco, ademais de tres títulos do Museo ausentes. O [complemento recuperado da investigación principal](evidence/EX01_expansion_complement_2026-11-02.txt) permite pechar esas lagoas sen inventar fichas: catro actividades de Ponte Vella e Principios de Ikebana explican o saldo; os tres títulos do MAPOU completan unidades xa contadas, sen incrementalas.
 
-### Fontes candidatas e punto de continuación
+A [auditoría actualizada](EX01_expansion_audit.md) mantén os IDs anteriores e contrasta a ampliación coa base de 32 e entre si, con datas, temática, espazos e decisións de agrupación transmitidas. Non se identifican duplicados documentais adicionais. **Os 89 quedan reconciliados nominalmente e seguen sendo un reconto provisional**, non 89 celebracións efectivas nin89 fichas completas verificadas independentemente nesta sesión.
 
-Identificadas no traspaso como posibles fontes posteriores, **sen orde definitiva nin investigación exhaustiva nesta entrega**:
+| Bloque | Unidades nominalmente identificadas |
+| --- | --- |
+| Base anterior | 32 |
+| MUS-01–23 | 23 |
+| AMP-01–29, incluídos os tres títulos do Museo completados | 29 |
+| PV-01–04: Figuras de la pandilla Halloween; Mundos en miniatura Halloween; Mago José Rivera; Dibujo y pintura con Leandro Sánchez | 4 |
+| FOR-03: Principios de Ikebana | 1 |
+| Incremento reconciliado | **23 + 29 + 4 + 1 = 57** |
+| Acumulado reconciliado nominalmente | **32 + 57 = 89** |
+| Saldo sen denominación recuperada | **0** |
 
-- Afundación Ourense e os seus centros culturais.
-- Universidade de Vigo: campus de Ourense e Sala Alterarte.
-- Turismo de Ourense e a súa axenda: investigar se agrega actividades de diferentes organizadores; por agora é unha hipótese, non unha conclusión.
-- Teatro Principal de Ourense.
-- Liceo de Ourense.
-- Asociación de Escritoras e Escritores en Lingua Galega (AELG).
+Ponte Vella conserva unha unidade para Figuras de la pandilla con sesións 29 e 30/10 e unha para Dibujo y pintura con sesións 30 e 31/10 e 06 e 07/11. AMP-27 non se introduce de novo. As tres actividades de Forasteiro son independentes; Flores en el arte ten dúas sesións nunha unidade; o MAPOU achega tres actividades distintas. Compartir temática de Samaín non fusiona convocatorias de organizadores diferentes co programa municipal. Jazz 29/10 e 05/11 segue como dúas actuacións segundo a decisión recibida. Ciclo feminista, Chinita e Magosto municipal conservan unha unidade composta cada un e o programa interno dispoñible na auditoría. Photocall/pintacaras auxiliares non se suman e Zona Gaming segue excluída.
 
-A referencia anterior a unha URL turística que non funcionaba non demostra inexistencia dunha axenda turística. A nova investigación menciona publicacións de Turismo, pero o traspaso non proporciona unha URL de axenda válida; queda pendente inventariala sen substituír a fonte municipal xa identificada. Tampouco se inventan URL para as demais candidatas.
+O detalle recibido transmite contrastes anteriores de carteis, programas e publicacións. **Non é unha nova comprobación independente desas fontes nesta sesión.** Hai datos aínda incompletos (intervalos/sedes dalgunhas exposicións, sedes e horas do Museo, ligazóns e orixinais de moitas confirmacións) e discrepancias non resoltas. A confirmación da programación non proba celebración efectiva. Non se deduce cobertura total, exhaustividade nin ausencia definitiva de duplicados non detectados.
 
-A continuación consistirá en seguir investigando cobertura adicional e posibles solapamentos entre as fontes candidatas e as xa estudadas, ademais da fragmentación, completitude e calidade de La Región / Press Club. Non se considera pechado o experimento nin se establece unha prioridade nova sen decisión posterior.
+## Incidencias da ampliación — 02/11/2026
+
+Todas as versións U seguintes proceden da instrución do usuario; os detalles de V1–V3 están na auditoría. Non se resolveron por inferencia.
+
+| Código / actividade | Versións e procedencia | Tratamento no reconto / pendente |
+| --- | --- | --- |
+| EX01-COMP-007 — Patakana no CEO | Turismo anúnciaa; sen confirmación independente suficiente (U) | **Non incorporada**; recuperar confirmación e ficha. |
+| EX01-COMP-008 — Una ópera de película. Antología Lírica del Cine | Turismo:08/11,21:00, Auditorio; non localizada na programación do Concello consultada; venda finalizada (U) | **Non incorporada**. Venda finalizada non demostra celebración nin cancelación. |
+| EX01-COMP-009 — A dimensión social e económica na emerxencia climática | 05/11,20:30, sede Afundación; sen confirmación nas fontes oficiais consultadas (U) | **Non incorporada**; a non localización non proba inexistencia. |
+| EX01-COMP-001 — El aprendiz de arquero | Listaxe do centro 07/10–08/11; ficha e La Región 08/10–01/11 | Un evento xa na base; mantense a discrepancia anterior. |
+| EX01-COMP-002 — Ética e política | Centro 29/10,20:15 / Press Club 19:45; posible aprazamento posterior (U) | Xa na base; revisar estado e celebración efectiva sen retiralo nin confirmalo artificialmente. |
+| EX01-COMP-010 — Punto y seguido | Centro 04/11 / Turismo 10/11 (U) | Un evento xa na base, non unha nova incorporación; non escoller data arbitraria. |
+| EX01-COMP-011 — Ourense na Túa Memoria: Recunchos — Cine | Turismo 09/11,19:30 / cartel 09/11,16:30 (U); Liceo tamén 16:30 (V2) | Unha incorporación relatada; prioridade provisional ao cartel, conservando ambas as versións e pendente de evidencia orixinal. |
+| EX01-COMP-012 — ¡Acojonado! | 06/11; Turismo 20:00 / Teatro Principal 20:30 (U) | Unha incorporación relatada; hora non resolta. |
+| EX01-COMP-013 — Un matrimonio sin filtros | 07/11; Turismo 18:00 / Teatro 18:00 e 20:00 (U) | Un espectáculo con dúas funcións; conservar ambas, sen sumar dúas unidades. |
+| EX01-COMP-014 — Freaks | Turismo 03/11 / Cineclube e outras fontes 17/11 segundo U; Radio Liverdade tamén 03/11 nesta consulta (V1) | **Excluída da xanela** segundo a clasificación recibida. Erro de data da agregadora relatado;17/11 non reverificado por bloqueo das páxinas específicas. Manter a discrepancia aberta, non reintroducir por outra agregadora. |
+| EX01-COMP-015 — El elemento caprichoso | Fin discrepante (U); Turismo de outubro publica 02/11 (V3); outra data non recuperada | Inclusión provisional relatada; non elixir fin nin inventar a versión ausente. |
+
+Mantéñense tamén EX01-COMP-005 (hora da conferencia sobre manipulación) e a nova versión de Radio para EX01-COMP-004 (ERUs 19:30 fronte a19:45). A lista inclúe datos ausentes, inconsistencias e posibles cambios de estado: non todos son erros demostrados nin eventos adicionais.
+
+## Estado e continuación
+
+O **EX01 segue aberto**; non se define o MVP nin se inicia desenvolvemento. Mantéñense a xanela e o municipio acordados. As 57 incorporacións xa están reconciliadas nominalmente co complemento. Queda conservar a evidencia primaria e completar os campos ausentes; se aparece información contraditoria, documentarase para revisar identidades e agrupacións sen cambialas por dedución.
+
+Fontes posteriores ou ampliadas: Afundación, Universidade/campus e facultades, Turismo, Teatro Principal, Museo Arqueolóxico, Biblioteca Nós, Liceo, AELG e redes de organizadores. As URL recibidas e as comprobacións limitadas están na auditoría. A consulta de Turismo amosa programación de diferentes espazos, pero non autoriza unha afirmación de exhaustividade nin de independencia de cada publicación.
+
+Continúan pendentes a unidade da visita de Nicolás Muller, os programas internos dos compostos e as evidencias das incidencias previas. Non se converte unha exposición, un concerto ou un obradoiro anunciado nun evento efectivamente celebrado sen confirmación específica. A orde de continuación non se fixa nesta entrega.

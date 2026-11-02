@@ -35,3 +35,15 @@ Non se substitúen estas evidencias históricas por respostas actuais sen identi
 ## Investigación de La Región / Press Club — 02/11/2026
 
 [EX01_laregion_traspaso_2026-11-02.txt](EX01_laregion_traspaso_2026-11-02.txt) conserva sen modificacións o ficheiro achegado `Texto pegado(1).txt`. É un traspaso de investigación e decisións, non unha captura das fontes. A data identifica a incorporación documental, non o instante de inspección de cada páxina. O [caderno de comparación](../EX01_source_comparison.md) incorpora o inventario de sete actividades, o contraste cos 25 anteriores, duplicados, exclusións e observacións de calidade. Non se achegaron as URL individuais, capturas ou programas completos; quedan explicitamente pendentes. As versións horarias e de datas non se resolven por inferencia.
+
+## Ampliación comunicada de 32 a 89 — 02/11/2026
+
+A [auditoría da ampliación](../EX01_expansion_audit.md) identifica a instrución directa do usuario (U), a recuperación de resumos de conversación (H0–H3) e consultas limitadas de páxinas (V1–V3). Non se recibiu un ficheiro co inventario completo dos 57 adicionais. As 23 actuacións recupéranse de resumos anteriores do asistente, non de publicacións primarias arquivadas; non demostran celebración efectiva. A versión inicial conservaba os rexistros parciais e o saldo sen inventario; o complemento posterior, descrito abaixo, pecha o saldo nominal e mantén os campos e evidencias pendentes. As URL, datos observados e fallos de acceso están rexistrados, pero non se gardaron respostas HTTP completas nin capturas.
+
+### Integridade dos traspasos anteriores
+
+Na revisión detectáronse dous hashes que non coincidían cos bytes xa integrados en `main`: os traspasos `EX01_source_comparison_traspaso_2026-10-29.txt` e `EX01_laregion_traspaso_2026-11-02.txt`. Contrastáronse coas copias achegadas: o texto coincide tras normalizar CRLF/LF; os finais de liña cambiaron na integración anterior. Non se editan os ficheiros de evidencia. Actualízanse só os hashes para os bytes realmente conservados. As afirmacións de copia sen modificacións dos apartados anteriores describen a preparación orixinal, non identidade binaria tras esa normalización.
+
+## Complemento de reconciliación nominal — 02/11/2026
+
+[EX01_expansion_complement_2026-11-02.txt](EX01_expansion_complement_2026-11-02.txt) é unha copia literal do ficheiro achegado `Texto pegado(2).txt`. Transmite información aceptada na investigación principal: cinco unidades omitidas, títulos MAPOU, datos e programas ampliados e decisións de agrupación. Non é unha nova comprobación das fontes primarias nin substitúe os carteis/capturas ausentes neste fío. A auditoría distingue esta procedencia como C, fronte á instrución inicial U, os resumos recuperados H e as consultas limitadas V. A ausencia de captura local non invalida o contraste previo relatado; segue pendente o arquivo da evidencia orixinal. O hash conserva os bytes deste complemento.
