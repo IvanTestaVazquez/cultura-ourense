@@ -1,0 +1,225 @@
+# Cultura Ourense — EX01: actualización documental de La Región e Press Club
+
+Quero continuar o traballo no repositorio GitHub `IvanTestaVazquez/cultura-ourense`.
+
+Estamos realizando o **Experimento 01 (EX01)**, dedicado a investigar a cobertura, os solapamentos, a fragmentación e a calidade das fontes de información sobre eventos culturais no municipio de Ourense.
+
+O período de observación é do **29 de outubro ao 11 de novembro de 2026**, ambos incluídos.
+
+O obxectivo desta sesión é **actualizar a documentación coa investigación realizada sobre La Región e Press Club**, mantendo a trazabilidade dos resultados e sen iniciar aínda a definición do MVP nin o desenvolvemento.
+
+## 1. Estado do repositorio
+
+A documentación anterior está integrada en `main` e sincronizada no ordenador.
+
+- Xunta: 12 eventos incluídos.
+- Concello: 5 eventos incluídos.
+- Centro Cultural Marcos Valcárcel: 8 eventos incluídos e 1 excluído.
+- Total anterior: **25 eventos únicos observados**, sen duplicados identificados entre esas tres fontes.
+
+Comproba primeiro o estado real do repositorio e das ramas.
+
+**Reutiliza a rama de traballo existente se é posible.** Non crees unha nova innecesariamente.
+
+Non sobrescribas documentación anterior nin modifiques resultados xa consolidados sen xustificación.
+
+## 2. Novos eventos identificados en La Región
+
+Durante a investigación posterior identificamos sete actividades culturais adicionais, que decidimos incluír provisionalmente no inventario.
+
+| Actividade | Data ou período | Lugar | Clasificación |
+|---|---|---|---|
+| Nicolás Muller en Galicia | 17/09/2026–09/01/2027 | Afundación Ourense | Exposición fotográfica |
+| LSYTSDA (Lo siento, yo tampoco soy de aquí) | 24/09–13/11/2026 | Sala Alterarte, campus de Ourense | Artes visuais |
+| Judith Hill — O Gozo Festival | 05/11/2026, 20:00 | Teatro Principal | Música en directo |
+| CatArte 2026 | Sesión do 05/11/2026 | Centro Cultural Marcos Valcárcel | Música, cultura e gastronomía |
+| A manipulación no xornalismo e na historia | 29/10/2026 | Liceo de Ourense | Divulgación histórica, xornalística e social |
+| A Auga na Historia II | 29/10/2026, 09:50 | Facultade de Historia, campus de Ourense | Divulgación histórica, científica e patrimonial |
+| A xoaniña que bebeu na folla — Fina Casalderrey | 29/10/2026, 18:00 | Facultade de Educación e Traballo Social | Divulgación literaria |
+
+Estes eventos foron examinados e aceptados durante a investigación. Contrasta as referencias dispoñibles e conserva a procedencia dos datos.
+
+### Particularidades
+
+**Nicolás Muller en Galicia:** a exposición conta cunha visita guiada anunciada para o 5 de novembro. Aínda non decidimos se esa visita constitúe un evento independente ou unha actividade asociada. Rexistra a cuestión como pendente, sen sumala automaticamente.
+
+**CatArte:** o ciclo ten sesións os días 5, 12, 19 e 26 de novembro. Só a do 5 de novembro entra no período observado. Contabilizamos unha actividade correspondente a esa sesión, conservando a súa pertenza ao ciclo.
+
+**A Auga na Historia II:** é unha xornada con tres intervencións. Contabilízase como un evento, non como tres.
+
+**Fina Casalderrey:** a conferencia pertence a un ciclo de catro sesións de outubro, pero só a do día 29 coincide co período do EX01.
+
+## 3. Reconto provisional
+
+O resultado acumulado da investigación é:
+
+- 25 eventos únicos documentados anteriormente.
+- 7 novas incorporacións procedentes da análise de La Región.
+- **32 eventos únicos observados provisionalmente.**
+
+Antes de consolidar o reconto, contrasta os sete novos eventos co inventario existente para descartar duplicados inadvertidos.
+
+Non presentes esta cifra como cobertura total da programación cultural de Ourense nin como resultado dunha investigación exhaustiva.
+
+## 4. Outros candidatos examinados en La Región
+
+Rexistra tamén as actividades revisadas que non incrementan o reconto:
+
+| Actividade | Resultado | Motivo |
+|---|---|---|
+| Centenario de los grandes vuelos de la aviación española | Duplicado | Xa identificado na axenda do Concello |
+| Visita guiada á Catedral de Ourense | Excluída | Servizo turístico recorrente, sen convocatoria cultural específica |
+| Magosto de Barra de Miño | Excluído | Barra de Miño pertence ao concello de Coles, fóra do ámbito xeográfico |
+
+A exclusión da visita á Catedral non implica excluír todas as visitas guiadas. Un roteiro ou unha visita extraordinaria cunha convocatoria identificable pode cumprir os criterios culturais.
+
+## 5. Revisión de Press Club
+
+Na sección Foro La Región identificamos tres actividades que coinciden con eventos xa contabilizados no Marcos Valcárcel:
+
+1. **Ética e política**, 29/10.
+2. **As Unidades de Emerxencias Internacionais (ERUs) da Cruz Vermella**, 05/11.
+3. **I Xornada Internacional da Lonxevidade**, 07/11.
+
+As tres son duplicados entre fontes, non novos eventos únicos.
+
+No caso da xornada da lonxevidade, Press Club ofrece un programa máis detallado, cun horario anunciado de 09:00 a 14:15.
+
+Tamén identificamos unha publicación de Press Club relativa a entradas para o concerto de Judith Hill, que xa está contabilizado.
+
+A revisión realizada non identificou novos eventos únicos nesta sección, pero **non debe describirse como exhaustiva de todas as publicacións históricas de Press Club**.
+
+## 6. Solapamentos xa coñecidos con Marcos Valcárcel
+
+Conserva os resultados da investigación anterior:
+
+### Exposicións compartidas con La Región
+
+- Terra do Anel.
+- Ecosistema dunha rodaxe.
+- El aprendiz de arquero.
+
+Son tres eventos únicos publicados en ambas as fontes.
+
+### Discrepancia de datas: El aprendiz de arquero
+
+- Listaxe do Marcos Valcárcel: 07/10–08/11.
+- Ficha individual do Marcos Valcárcel: 08/10–01/11.
+- La Región: 08/10–01/11.
+
+Discrepancia non resolta. Conservar as versións e a súa procedencia.
+
+### Discrepancia horaria: Ética e política
+
+- Marcos Valcárcel: 20:15.
+- Press Club: 19:45.
+
+Discrepancia non resolta.
+
+### Conferencia sobre as ERUs
+
+- Marcos Valcárcel: 05/11, 19:45.
+- Press Club: 05/11, 19:45.
+
+Información coincidente entre ambas as fontes.
+
+Evita duplicar documentación xa existente: amplía ou actualiza os apartados correspondentes.
+
+## 7. Novas observacións de calidade e cobertura
+
+### Conferencia sobre manipulación no xornalismo e na historia
+
+Detectamos unha discrepancia horaria:
+
+- La Región, artigo de axenda diaria: 20:00.
+- Axenda do Liceo: 19:30.
+- Turismo de Ourense: 19:30.
+
+Non resolves arbitrariamente a discrepancia. Conserva os valores, as fontes e o estado de verificación.
+
+### CatArte 2026
+
+A actividade aparece en:
+
+- La Región.
+- Axenda de Turismo de Ourense.
+- Web específica do evento.
+- Plataforma de venda de entradas.
+
+Non apareceu na listaxe do Marcos Valcárcel que examinamos, malia celebrarse nese centro.
+
+Rexistra a observación como **«non localizado na axenda consultada do Marcos Valcárcel»**, non como ausencia absoluta de publicación.
+
+É un exemplo de posible cobertura complementaria entre fontes.
+
+### Fragmentación de La Región
+
+Durante a investigación identificamos eventos a través de diferentes canles:
+
+- Axenda xeral.
+- Artigos de axenda diaria.
+- Foro La Región / Press Club.
+- Publicacións especializadas e promocións de entradas.
+
+Documenta esta fragmentación sen asumir que todas as canles son independentes nin sumar varias publicacións dun mesmo evento.
+
+Distingue claramente:
+
+- Número de eventos únicos.
+- Número de publicacións.
+- Número de fontes ou canles que publican un mesmo evento.
+
+## 8. Fontes candidatas para investigación posterior
+
+Durante o EX01 identificamos outras fontes que poderían ampliar a cobertura:
+
+- Afundación Ourense e os seus centros culturais.
+- Universidade de Vigo, especialmente a programación do campus de Ourense e da Sala Alterarte.
+- Turismo de Ourense e a súa axenda de eventos.
+- Teatro Principal de Ourense.
+- Liceo de Ourense.
+- Asociación de Escritoras e Escritores en Lingua Galega (AELG).
+
+Especialmente en Turismo de Ourense, queremos investigar se a súa axenda funciona como agregador de actividades de diferentes organizadores.
+
+**Non investigues exhaustivamente estas fontes nesta sesión.** Déixaas identificadas como posibles pasos posteriores, sen establecer aínda unha orde definitiva.
+
+## 9. Criterios metodolóxicos que deben conservarse
+
+- Só eventos dentro do municipio de Ourense.
+- Período do 29/10 ao 11/11/2026, ambos incluídos.
+- Exposicións ou actividades de varios días contabilizadas unha vez cando corresponda.
+- Ciclos e actividades compostas tratados segundo a unidade de evento identificable.
+- Inclusión de divulgación científica, social e humanística, literatura, artes e dinamización cultural.
+- Exclusión de actos puramente administrativos ou protocolarios, servizos turísticos permanentes e actividades fóra do municipio.
+- Invitación, inscrición, reserva, gratuidade ou pagamento non determinan a inclusión cultural.
+- Preservación de discrepancias non resoltas.
+- Separación entre observacións verificadas, interpretacións e hipóteses.
+- Ningunha afirmación de exhaustividade sen evidencia suficiente.
+
+## 10. Traballo no repositorio
+
+Realiza as seguintes tarefas:
+
+1. Examina o estado actual de `main` e da rama de traballo.
+2. Localiza os documentos do EX01 e respecta a súa organización.
+3. Verifica a coherencia dos novos resultados co inventario anterior.
+4. Actualiza os inventarios e resultados agregados.
+5. Documenta os solapamentos entre fontes e as incidencias de calidade.
+6. Incorpora as observacións sobre fragmentación e cobertura complementaria.
+7. Rexistra as fontes candidatas e as cuestións pendentes.
+8. Conserva as ligazóns e referencias dispoñibles; non inventes URL nin datos ausentes.
+9. Revisa que os recontos sexan coherentes e que non haxa duplicados.
+10. Prepara ou actualiza a pull request correspondente, cun título e unha descrición breves.
+
+**Non fagas o merge automaticamente.** Quero revisar a PR antes de integrala en `main`.
+
+## 11. Punto de continuación
+
+Tras esta actualización, o EX01 seguirá aberto.
+
+Continuaremos investigando a cobertura cultural de Ourense, especialmente as fontes candidatas identificadas e os posibles solapamentos entre elas.
+
+Non inicies a definición do MVP nin o desenvolvemento da aplicación.
+
+Ao rematar, indícame os ficheiros modificados, os resultados consolidados, as cuestións pendentes e a ligazón á pull request.

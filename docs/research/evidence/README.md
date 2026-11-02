@@ -31,3 +31,7 @@ Non se substitúen estas evidencias históricas por respostas actuais sen identi
 ## Clasificación e validación do centro — 01/11/2026
 
 [EX01_marcos_valcarcel_decisions_2026-11-01.md](EX01_marcos_valcarcel_decisions_2026-11-01.md) rexistra as decisións recibidas (8 inclusións e 1 exclusión), o criterio de acceso e a continuación recibida sobre La Región / Press Club. Non substitúe o programa de invitación da UNED, non achegado aquí. O [contraste documental](../EX01_marcos_valcarcel_overlap.md) identifica os inventarios utilizados, casos próximos e limitacións para o resultado de 25 eventos observados. Non se descargaron novas fichas nin se resolveron as incidencias de La Región / Press Club. A continuación incorpora a diferenza interna listaxe/ficha de Pateiro e a coincidencia horaria das ERUs, segundo a comunicación do usuario.
+
+## Investigación de La Región / Press Club — 02/11/2026
+
+[EX01_laregion_traspaso_2026-11-02.txt](EX01_laregion_traspaso_2026-11-02.txt) conserva sen modificacións o ficheiro achegado `Texto pegado(1).txt`. É un traspaso de investigación e decisións, non unha captura das fontes. A data identifica a incorporación documental, non o instante de inspección de cada páxina. O [caderno de comparación](../EX01_source_comparison.md) incorpora o inventario de sete actividades, o contraste cos 25 anteriores, duplicados, exclusións e observacións de calidade. Non se achegaron as URL individuais, capturas ou programas completos; quedan explicitamente pendentes. As versións horarias e de datas non se resolven por inferencia.
