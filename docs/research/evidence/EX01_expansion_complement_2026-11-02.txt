@@ -1,0 +1,240 @@
+# EX01 — Complemento de contexto para reconciliar as 89 actividades
+
+Quero continuar a actualización documental do EX01 de Cultura Ourense, tomando como base a auditoría que acabas de preparar, titulada **«EX01 — Auditoría da ampliación comunicada: 32 → 89»**.
+
+**Non comeces de cero nin descartes o traballo anterior.** Este complemento achega información recuperada da conversa principal do proxecto que non estaba dispoñible na túa reconstrución.
+
+## 1. Obxectivo desta revisión
+
+Na auditoría anterior identificaches:
+
+- 32 eventos documentados en `main`.
+- 57 incorporacións comunicadas.
+- 89 eventos únicos provisionais.
+- 52 unidades reconstruídas: 23 musicais e 29 doutras categorías.
+- Un saldo documental de cinco unidades sen reconstruír.
+
+O obxectivo é completar esa información e comprobar a correspondencia entre as unidades recuperadas e as 57 incorporacións.
+
+**Non engadas automaticamente cinco eventos para cadrar o reconto.** Primeiro comproba se as actividades que faltaban explican a diferenza e se existen duplicados ou problemas de agrupación.
+
+## 2. Actividades omitidas na reconstrución: Ponte Vella
+
+Na investigación principal confirmáronse catro actividades adicionais da programación do 25.º aniversario de Ponte Vella:
+
+**PV-01 — Figuras de la pandilla Halloween**
+- Datas: 29 e 30 de outubro de 2026.
+- Actividade creativa infantil.
+- Contabilizada como unha actividade con varias sesións.
+
+**PV-02 — Mundos en miniatura Halloween**
+- Data: 31 de outubro de 2026.
+- Actividade creativa infantil.
+- Contabilizada como unha unidade independente.
+
+**PV-03 — Mago José Rivera**
+- Data: 31 de outubro de 2026.
+- Hora: 19:00.
+- Espectáculo de maxia.
+- Contabilizado como unha unidade independente.
+
+**PV-04 — Dibujo y pintura con Leandro Sánchez**
+- Sesións: 30 e 31 de outubro, 6 e 7 de novembro de 2026.
+- Actividade artística recorrente.
+- Contabilizada como unha unidade con varias sesións, non catro eventos.
+
+Estas catro unidades xa estaban incluídas no reconto comunicado de 89. Non se deben sumar outra vez.
+
+A programación procedía de carteis de Ponte Vella revisados na conversa principal.
+
+Tamén se identificaron actividades auxiliares de photocall de levitación e pintacaras, que non se contabilizaron por separado. A Zona Gaming foi excluída por non cumprir suficientemente os criterios culturais acordados.
+
+A actividade «Máis alá do volante: descubrindo o automobilismo» xa aparece como AMP-27 na túa auditoría e **non debe duplicarse**.
+
+## 3. Actividade omitida: Cafetería Forasteiro
+
+**FOR-03 — Principios de Ikebana**
+- Data: 7 de novembro de 2026.
+- Hora: 16:00.
+- Espazo: Cafetería Forasteiro.
+- Actividade creativa relacionada coa arte floral xaponesa.
+- Confirmada na investigación mediante publicación do establecemento en Instagram.
+- Incluída como evento independente.
+
+As outras dúas actividades de Forasteiro xa aparecen na túa auditoría:
+
+- AMP-23: Pumpkin Carving, 31/10, 16:00–17:00.
+- AMP-24: Conecta con los animales, conecta contigo, 06/11, 17:00.
+
+Son tres unidades independentes, non unha programación composta única.
+
+**Comprobación aritmética:** as catro actividades omitidas de Ponte Vella e «Principios de Ikebana» constitúen cinco unidades que non aparecen na túa táboa de 52. Iso permite reconstruír nominalmente as 57 unidades comunicadas, pero aínda é necesario revisar as identidades, as agrupacións e a ausencia de duplicados.
+
+## 4. Completar as tres actividades do Museo Arqueolóxico
+
+Substitúe as denominacións xenéricas AMP-11, AMP-12 e AMP-13 polos títulos recuperados na investigación principal:
+
+**AMP-11**
+- Data: 02/11/2026.
+- Título: «Arqueoloxía en monodose: A igrexa de Santalla de Esperante».
+
+**AMP-12**
+- Data: 09/11/2026.
+- Título: «Arqueoloxía en monodose: A vila romana dos Escouredos».
+
+**AMP-13**
+- Data: 11/11/2026.
+- Título: «Presentación da peza do mes: Cerámicas campaniformes da Portela da Moada».
+
+Fonte primaria utilizada na investigación: programación do Museo Arqueolóxico Provincial de Ourense (MAPOU).
+
+Estas tres actividades foron aceptadas como tres unidades independentes. Non son unha única actividade repetida en tres datas.
+
+Non inventes horas nin sedes concretas se non as podes recuperar.
+
+## 5. Completar datos das unidades xa identificadas
+
+Actualiza os seguintes rexistros sen crear novos eventos:
+
+**AMP-14 — O derradeiro Gimlet**
+- Presentación do libro de Diego Ameixeiras.
+- 03/11/2026, 19:30.
+- Libraría Tanco, Ourense.
+- Participación de Fran Alonso, director de Xerais.
+- Contrastado mediante cartel compartido na conversa principal.
+
+**AMP-15 — Escoitando comunidades que se coidan: VII Encontro arredor do rural**
+- 30/10/2026, 10:00.
+- Edificio de Ferro, Universidade de Vigo, Campus de Ourense.
+- Contrastado mediante axenda e información institucional da UVigo.
+
+**AMP-17 — Indie Pop Británico dos anos 80**
+- 29/10/2026, 20:30.
+- Café Pop Torgal.
+- Charla-audición musical, distinta dos concertos do mesmo local.
+- A programación foi confirmada polo usuario durante a investigación.
+
+**AMP-18 — Ourense na Túa Memoria: Recunchos — Cine**
+- 09/11/2026.
+- Liceo de Ourense.
+- Formato: café-faladoiro sobre o cine e a memoria colectiva da cidade.
+- Proxecto: Recunchos da Nosa Memoria.
+- Entidades identificadas: Liceo de Ourense e Salubrízate.
+- Turismo: 19:30.
+- Cartel e programación do Liceo: 16:30.
+- Manter a discrepancia documentada, con prioridade provisional para 16:30.
+
+**AMP-19 — II Ciclo de Cine: Tempos de feminismo en plano secuencia**
+- 05/11/2026, 13:00–21:00.
+- Aula magna do Edificio Xurídico-Empresarial, Campus de Ourense.
+- Organiza: Facultade de Relacións Internacionais da Universidade de Vigo.
+- Programa composto:
+  - 13:10: «Serás Hombre», de Isabel de Ocampo, e conferencia sobre a construción social da masculinidade tóxica.
+  - 17:00: «Insumisas: Mujeres en lucha en el Sáhara Occidental» e conferencia sobre a situación das mulleres no Sáhara Occidental.
+  - 19:00: «Gorrións entre tulipáns: soños rotos detrás do burka» e conferencia sobre as mulleres en Afganistán.
+- Un único evento composto, segundo o criterio aceptado.
+- Fonte: https://frrii.uvigo.es/gl/actualidade/eventos/ii-ciclo-de-cine-tempos-de-feminismo-en-plano-secuencia
+
+**AMP-25 — Flores en el arte**
+- Estudio Ana Navas.
+- Sesións: 06/11/2026 ás 19:00 e 07/11/2026 ás 17:30.
+- Unha actividade con dúas sesións.
+- Contrastada mediante cartel compartido na conversa principal.
+
+**AMP-26 — Sesión de xogos de mesa para maiores de 60 anos**
+- 05/11/2026, 11:00–12:30.
+- Biblioteca Pública de Ourense Nós, sala xuvenil.
+- Actividade gratuíta con inscrición previa.
+- Promoción dos xogos de mesa contemporáneos.
+- Diferente do obradoiro de Alba Polo do 07/11.
+- A segunda sesión extraordinaria para maiores está anunciada para o 19/11 e queda fóra do período EX01.
+
+**AMP-27 — Máis alá do volante: descubrindo o automobilismo**
+- 06/11/2026, 17:15.
+- Ponte Vella, segunda planta.
+- Participantes anunciados: Mario Rivera e Rodrigo González.
+- Inclúe charla, simulador e material de competición, ademais dun sorteo.
+- Incluído como actividade de divulgación deportiva e técnica.
+- O sorteo e o simulador son compoñentes, non eventos separados.
+
+**AMP-28 — Feria de la Chinita Galicia**
+- 08/11/2026, 12:00.
+- Campo da Feira, Ourense.
+- Celebración cultural da comunidade venezolana, con programación musical, gastronómica e comunitaria.
+- Un único evento composto.
+- Fonte identificada: https://www.instagram.com/feriadelachinitagalicia/
+
+**AMP-29 — Festa do Magosto de Ourense 2026**
+- Un único evento composto, seguindo o criterio de agrupación do Concello.
+- Programa identificado:
+  - 07/11, 10:00–13:00: obradoiro de instrumentos tradicionais con Xavier Blanco, Sala Ánxel Valente.
+  - 07/11, 19:00: actividade didáctica sobre instrumentos populares, Sala Ánxel Valente.
+  - 11/11, 18:00: magosto tradicional, Praza Maior/Alameda.
+  - 11/11, 18:00: Festival Folk San Martiño.
+  - 11/11, 19:00–22:00: orquestra Los Satélites.
+- Fonte: https://ourense.gal/gl/evento/festa-do-magosto-de-ourense-2026-festa-de-interese-turistico
+
+## 6. Aclaracións metodolóxicas sobre agrupación
+
+Durante a investigación xa se tomaron estas decisións:
+
+- As tres actividades do MAPOU contabilízanse individualmente.
+- Os obradoiros de Samaín de diferentes organizadores non se fusionan automaticamente cunha celebración municipal polo feito de compartir temática.
+- As tres actividades de Forasteiro son independentes.
+- As catro actividades de Ponte Vella enumeradas neste complemento son independentes entre si, aínda que algunhas teñan varias sesións.
+- «Flores en el arte» é unha única actividade con dúas sesións.
+- O ciclo feminista da UVigo é un único evento composto.
+- A Festa do Magosto municipal é un único evento composto.
+- A Feria de la Chinita é un único evento composto.
+- As dúas sesións de jazz do Café Latino corresponden a datas diferentes e foron tratadas como actuacións individuais na investigación.
+- «Urban Femme Fest» e «Magosto Extremo» xa forman parte das 23 unidades musicais; non dividir os seus programas internos sen xustificación.
+- Unha exposición é un único evento aínda que permaneza aberta durante varias semanas.
+
+Non modifiques estas decisións por dedución. Se aparece evidencia que as contradiga, documenta a discrepancia para revisión.
+
+## 7. Incidencias que deben permanecer abertas
+
+Non é necesario resolver agora:
+
+- «Patakana no CEO»: sen confirmación independente; non incluída.
+- «Una ópera de película»: sen confirmación suficiente na programación municipal; non incluída.
+- «A dimensión social e económica na emerxencia climática»: sen confirmación suficiente; non incluída.
+- «El aprendiz de arquero»: datas contraditorias.
+- «Ética e política»: horarios contraditorios e posible aprazamento.
+- «Punto y seguido»: discrepancia entre 04/11 e 10/11.
+- «El elemento caprichoso»: discrepancia na data de finalización.
+- «¡Acojonado!»: Turismo 20:00 fronte a Teatro Principal 20:30.
+- «Un matrimonio sin filtros»: dúas funcións anunciadas polo Teatro Principal, unha soa recollida por Turismo.
+- «Freaks»: Turismo 03/11 fronte ao 17/11 segundo a programación contrastada do cineclube e outras fontes; excluída do período.
+- «Ourense na Túa Memoria»: diferenza horaria xa explicada.
+
+Manter a procedencia de cada versión, a situación provisional e a revisión futura.
+
+## 8. Como tratar a evidencia
+
+Este complemento transmite decisións e datos recuperados da conversa principal, incluídas comprobacións de carteis e capturas que quizais non teñas dispoñibles no teu fío.
+
+Non presentes este texto como se fose unha nova comprobación independente das fontes primarias.
+
+Distingue:
+- Información aceptada na investigación principal.
+- Información recuperada do historial.
+- Información contrastada directamente nesta sesión de Work.
+- Información aínda pendente de completar ou verificar.
+
+A falta dunha captura orixinal no teu fío non implica que a actividade non fose contrastada previamente, pero tampouco autoriza a inventar unha URL ou unha proba documental.
+
+## 9. Resultado solicitado
+
+1. Revisa a auditoría existente e incorpora as cinco unidades omitidas.
+2. Completa os títulos, datas, espazos e programas detallados neste complemento.
+3. Comproba a correspondencia entre as 57 incorporacións e os 89 eventos acumulados.
+4. Revisa duplicados fronte aos 32 rexistros anteriores.
+5. Mantén abertas as incidencias non resoltas.
+6. Actualiza a documentación existente sen crear fichas ficticias nin modificar o alcance do EX01.
+7. Revisa o diff e identifica claramente os ficheiros modificados.
+8. Non fagas merge a `main` sen a miña aprobación.
+
+Ao rematar, indica expresamente se os 89 eventos están **reconciliados nominalmente**, se existen rexistros aínda incompletos e cales son as limitacións da evidencia dispoñible.
+
+Non confundas reconciliación nominal coa verificación independente de todas as fontes nin coa celebración efectiva dos eventos.
