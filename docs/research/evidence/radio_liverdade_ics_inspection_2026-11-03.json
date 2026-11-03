@@ -1,0 +1,363 @@
+{
+  "inspection_date": "2026-11-03",
+  "scope": "Offline inspection of 10 previously collected ICS files; no event inventory changes, no collector.",
+  "files": [
+    {
+      "name": "radio-liverdade-0ae85c4d811.ics",
+      "sha256": "3a9a4b25e50f3d6e210e4bebd79d9a85bd50ac7e2717d869dce42f179a076093",
+      "bytes": 24254,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 21,
+      "all_day": 3,
+      "latno": 0,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALNAME:Radio Liverdade",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 29,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20261026",
+      "start_max": "20261105T193000",
+      "source_library_file_id": "libfile_f756a795c1308191aabe5d34396f3f59"
+    },
+    {
+      "name": "radio-liverdade-0ea3a290a1f.ics",
+      "sha256": "f5e6bc2c97390033d09f4f627dd9fab889866db1ad38fba3383b188af5b73789",
+      "bytes": 27671,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 16,
+      "all_day": 3,
+      "latno": 1,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALNAME:Radio Liverdade",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 30,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20261030T220000",
+      "start_max": "20261107T183000",
+      "source_library_file_id": "libfile_ab11561fa7dc8191b822200f90cfa789"
+    },
+    {
+      "name": "radio-liverdade-20dbfb5ef02.ics",
+      "sha256": "4bbc01d8aa6e94cd194e0eac83dbc1a829d4da027a04a0feb0539968d401b33d",
+      "bytes": 28273,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 14,
+      "all_day": 2,
+      "latno": 1,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALNAME:Radio Liverdade",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 30,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20261104T180000",
+      "start_max": "20261113",
+      "source_library_file_id": "libfile_50a0f8a025588191aa76d97517e64a4f"
+    },
+    {
+      "name": "radio-liverdade-2a6c4fd473d (1).ics",
+      "sha256": "93c3c46170fc3a55f4b360444bdfece250876cfded2b54ffaf4541f897d3810e",
+      "bytes": 23732,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 23,
+      "all_day": 3,
+      "latno": 0,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALNAME:Radio Liverdade",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 28,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20260925",
+      "start_max": "20261008T200000",
+      "source_library_file_id": "libfile_81a2e6242d688191ba3a5a15b8b6a5cf"
+    },
+    {
+      "name": "radio-liverdade-2a6c4fd473d.ics",
+      "sha256": "93c3c46170fc3a55f4b360444bdfece250876cfded2b54ffaf4541f897d3810e",
+      "bytes": 23732,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 23,
+      "all_day": 3,
+      "latno": 0,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALNAME:Radio Liverdade",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 28,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20260925",
+      "start_max": "20261008T200000",
+      "source_library_file_id": "libfile_e1baa890f320819190481b96842c9224"
+    },
+    {
+      "name": "radio-liverdade-30d3631d02c.ics",
+      "sha256": "6c784fd0305e0accc1b4eb56a8ce7f72142f81fb0120d529e30067d9245ed5ce",
+      "bytes": 24224,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 21,
+      "all_day": 3,
+      "latno": 0,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 29,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20261026",
+      "start_max": "20261105T193000",
+      "source_library_file_id": "libfile_8ee953ef5de08191aedf21afe302e5d6"
+    },
+    {
+      "name": "radio-liverdade-43ed54a45bc.ics",
+      "sha256": "b56f94796bf6648e97890fdc957e13fa0a396267ea83356312512e8f1f3111f8",
+      "bytes": 28057,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 20,
+      "all_day": 2,
+      "latno": 0,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALNAME:Radio Liverdade",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 30,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20261109T163000",
+      "start_max": "20261123T203000",
+      "source_library_file_id": "libfile_b0796136c600819199a5b89b3a7c0272"
+    },
+    {
+      "name": "radio-liverdade-6a2492b8d63.ics",
+      "sha256": "41d2e809f68d97b4816abc645f95b8cc6162f9533cebc7fa3779e0c2fd17e182",
+      "bytes": 28720,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 13,
+      "all_day": 1,
+      "latno": 1,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALNAME:Radio Liverdade",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 30,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20261103T180000",
+      "start_max": "20261112T203000",
+      "source_library_file_id": "libfile_5d123e0d6d1881918473d81193618a60"
+    },
+    {
+      "name": "radio-liverdade-adf1248e0bf.ics",
+      "sha256": "ac1371ee3d82ba2fb754e6fc14ce12d45734ad87e5d5518998a0d62fb83e4502",
+      "bytes": 26013,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 21,
+      "all_day": 6,
+      "latno": 0,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 29,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20261003T203000",
+      "start_max": "20261010",
+      "source_library_file_id": "libfile_8737348ddc9481919a28c5ac4f489367"
+    },
+    {
+      "name": "radio-liverdade-b5b81dd8217.ics",
+      "sha256": "b4f0391f638c584e127ac5c5d1a90f488cf818af5abb7ed5f0475a2f4e390aca",
+      "bytes": 26279,
+      "events": 30,
+      "unique_uid": 30,
+      "empty_description": 21,
+      "all_day": 3,
+      "latno": 0,
+      "properties": [
+        "PRODID:-//Radio Liverdade - ECPv6.17.4.1//NONSGML v1.0//EN",
+        "X-WR-CALNAME:Radio Liverdade",
+        "X-WR-CALDESC:Events for Radio Liverdade",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H"
+      ],
+      "fields": {
+        "DTEND": 30,
+        "DTSTART": 30,
+        "LOCATION": 30,
+        "CREATED": 30,
+        "UID": 30,
+        "DTSTAMP": 30,
+        "URL": 30,
+        "CATEGORIES": 30,
+        "ATTACH": 30,
+        "SUMMARY": 30,
+        "LAST-MODIFIED": 30,
+        "DESCRIPTION": 30
+      },
+      "start_min": "20261106T203000",
+      "start_max": "20261116T203000",
+      "source_library_file_id": "libfile_2331947284308191ab4f211d8d18f893"
+    }
+  ],
+  "aggregate": {
+    "records": 300,
+    "uid_union": 120,
+    "distinct_byte_hashes": 9,
+    "inventory_count_ex01": 89,
+    "inventory_count_changed": false
+  },
+  "comparison": {
+    "with_calname": "radio-liverdade-0ae85c4d811.ics",
+    "without_calname": "radio-liverdade-30d3631d02c.ics",
+    "events_equal": true,
+    "bytes_equal_after_removing_X_WR_CALNAME_line": true
+  },
+  "limitations": [
+    "No mapping of each file to original page URL or export mode was retained.",
+    "Page 5 HTML vs ICS 12/12 coverage comes from prior manual follow-up; not reproduced in this session.",
+    "UID union includes repeated exports and dates outside EX01; not a unique cultural event inventory.",
+    "Original ICS files were inspected locally and are not added to the public repository."
+  ]
+}

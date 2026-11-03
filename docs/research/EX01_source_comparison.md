@@ -47,7 +47,7 @@ Non se suman automaticamente os recontos das fontes: cómpre considerar as coinc
 | Turismo de Ourense | Axenda agregadora municipal, con programación de diferentes espazos | Cobertura ampliada relatada; URL de outubro comprobada na auditoría, sen exhaustividade |
 | Locais e salas privados / redes de organizadores | 23 actuacións recuperadas do historial | Programación relatada como contrastada; celebración efectiva non demostrada |
 | Cineclube, Museo, Biblioteca, Universidade/facultades e Liceo | Fontes de anuncios propios e espazos, segundo o caso | Contraste e faltas de evidencia na auditoría; non se recalculan totais por fonte |
-| Radio Liverdade | Medio con axenda agregadora | Consulta limitada; duplicados e novas versións discrepantes, sen sumar eventos alleos ao traspaso |
+| Radio Liverdade | Medio con axenda agregadora | [Avaliación técnica e de reutilización](EX01_radio_liverdade.md): ICS accesible, integridade global e permisos pendentes; sen cambios no reconto |
 
 Estes datos describen a exploración realizada; non son medidas comparables de cobertura final.
 
@@ -354,3 +354,7 @@ O **EX01 segue aberto**; non se define o MVP nin se inicia desenvolvemento. Mant
 Fontes posteriores ou ampliadas: Afundación, Universidade/campus e facultades, Turismo, Teatro Principal, Museo Arqueolóxico, Biblioteca Nós, Liceo, AELG e redes de organizadores. As URL recibidas e as comprobacións limitadas están na auditoría. A consulta de Turismo amosa programación de diferentes espazos, pero non autoriza unha afirmación de exhaustividade nin de independencia de cada publicación.
 
 Continúan pendentes a unidade da visita de Nicolás Muller, os programas internos dos compostos e as evidencias das incidencias previas. Non se converte unha exposición, un concerto ou un obradoiro anunciado nun evento efectivamente celebrado sen confirmación específica. A orde de continuación non se fixa nesta entrega.
+
+## Radio Liverdade: seguimento técnico do 03/11/2026
+
+A [avaliación específica da fonte](EX01_radio_liverdade.md) documenta os ICS inspeccionados, o acceso por URL directa e a mostra HTML–ICS comunicados, as incidencias de datos e as condicións publicadas de reutilización. Distínguense os resultados recalculados nesta sesión do seguimento manual. O recolector completo non foi implementado nin probado; non consta envío do correo de consulta nin autorización concedida. **Mantéñense os 89 eventos únicos provisionais**, a xanela do EX01 e todas as decisións de inclusión anteriores. Non se incorporan eventos das exportacións nin se resolven as súas discrepancias nesta entrega.
