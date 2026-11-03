@@ -47,3 +47,11 @@ Na revisión detectáronse dous hashes que non coincidían cos bytes xa integrad
 ## Complemento de reconciliación nominal — 02/11/2026
 
 [EX01_expansion_complement_2026-11-02.txt](EX01_expansion_complement_2026-11-02.txt) é unha copia literal do ficheiro achegado `Texto pegado(2).txt`. Transmite información aceptada na investigación principal: cinco unidades omitidas, títulos MAPOU, datos e programas ampliados e decisións de agrupación. Non é unha nova comprobación das fontes primarias nin substitúe os carteis/capturas ausentes neste fío. A auditoría distingue esta procedencia como C, fronte á instrución inicial U, os resumos recuperados H e as consultas limitadas V. A ausencia de captura local non invalida o contraste previo relatado; segue pendente o arquivo da evidencia orixinal. O hash conserva os bytes deste complemento.
+
+## Radio Liverdade: inspección técnica — 03/11/2026
+
+[radio_liverdade_ics_inspection_2026-11-03.json](radio_liverdade_ics_inspection_2026-11-03.json) conserva os nomes e identificadores de procedencia dos dez ficheiros da investigación, hashes SHA-256, tamaños, recontos e comparación do par de exportacións. Os ficheiros non estaban no repositorio; foron inspeccionados nesta sesión e os ICS completos non se engaden ao control de versións. O informe contén estatísticas e referencias, sen descricións, títulos individuais ou imaxes da fonte. Non é un inventario de eventos nin un rexistro HTTP da descarga.
+
+O [caderno da fonte](../EX01_radio_liverdade.md) diferencia a descarga directa e a proba HTML 12/12 relatadas polo usuario das comprobacións locais dos ICS e da consulta actual do aviso legal. A correspondencia completa ficheiro–páxina/modalidade e a listaxe HTML da quinta páxina non quedaron dispoñibles aquí. Non consta evidencia de envío do borrador de correo, resposta ou autorización. Os 89 eventos non se alteran.
+
+Comprobación de integridade desta sesión: o complemento `EX01_expansion_complement_2026-11-02.txt` xa integrado en `main` tamén presentaba normalización CRLF/LF respecto á copia achegada. O texto coincide tras normalizar finais de liña. Non se modifica a evidencia; actualízase o hash para os bytes conservados, seguindo o criterio documentado para os traspasos anteriores.
